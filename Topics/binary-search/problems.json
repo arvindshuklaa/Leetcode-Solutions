@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-09T17:01:20.940Z",
+  "updatedAt": "2026-09-09T17:01:32.493Z",
   "problems": [
     {
       "frontendId": "69",
@@ -142,7 +142,7 @@
           "filename": "0540-single-element-in-a-sorted-array.cpp",
           "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.cpp",
           "sha": "42d69b50389faa8a18a4ab0fd50dc1767abcaa95",
-          "lastSyncedAt": "2026-09-09T16:55:45.162Z"
+          "lastSyncedAt": "2026-09-09T17:01:32.493Z"
         }
       ]
     },
