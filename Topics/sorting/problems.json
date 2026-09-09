@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-09T16:57:37.627Z",
+  "updatedAt": "2026-09-09T17:01:48.671Z",
   "problems": [
     {
       "frontendId": "75",
@@ -62,7 +62,7 @@
           "filename": "0977-squares-of-a-sorted-array.cpp",
           "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.cpp",
           "sha": "0904d6c919265a027d1a3155f40290bf097c9ccd",
-          "lastSyncedAt": "2026-09-09T16:56:16.969Z"
+          "lastSyncedAt": "2026-09-09T17:01:48.671Z"
         }
       ]
     }
