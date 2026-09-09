@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-09T17:01:48.671Z",
+  "updatedAt": "2026-09-09T17:02:24.872Z",
   "problems": [
     {
       "frontendId": "75",
@@ -42,7 +42,7 @@
           "filename": "0215-kth-largest-element-in-an-array.cpp",
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.cpp",
           "sha": "b13624ba7bf8e22e0b7db22f6c69e71bb469e2dd",
-          "lastSyncedAt": "2026-09-09T16:57:20.837Z"
+          "lastSyncedAt": "2026-09-09T17:02:24.872Z"
         }
       ]
     },
