@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-09T17:01:32.493Z",
+  "updatedAt": "2026-09-09T17:01:36.703Z",
   "problems": [
     {
       "frontendId": "69",
@@ -182,7 +182,7 @@
           "filename": "0852-peak-index-in-a-mountain-array.cpp",
           "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.cpp",
           "sha": "e6155f055ec56209eaf88eb7ad67171c185de1d0",
-          "lastSyncedAt": "2026-09-09T16:55:54.952Z"
+          "lastSyncedAt": "2026-09-09T17:01:36.703Z"
         }
       ]
     }
