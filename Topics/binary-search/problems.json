@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-09T17:01:08.760Z",
+  "updatedAt": "2026-09-09T17:01:20.940Z",
   "problems": [
     {
       "frontendId": "69",
@@ -42,7 +42,7 @@
           "filename": "0162-find-peak-element.cpp",
           "path": "0162-find-peak-element/0162-find-peak-element.cpp",
           "sha": "0fb5f098448c917a8d9272d1f2988b370f7eeaaf",
-          "lastSyncedAt": "2026-09-09T16:55:22.248Z"
+          "lastSyncedAt": "2026-09-09T17:01:20.940Z"
         }
       ]
     },
