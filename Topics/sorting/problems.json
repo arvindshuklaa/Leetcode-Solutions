@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-09T16:57:20.837Z",
+  "updatedAt": "2026-09-09T16:57:37.627Z",
   "problems": [
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0075-sort-colors.cpp",
+          "path": "0075-sort-colors/0075-sort-colors.cpp",
+          "sha": "5fd6a3c161f991b1915065582f85049ca34ed901",
+          "lastSyncedAt": "2026-09-09T16:57:37.627Z"
+        }
+      ]
+    },
     {
       "frontendId": "215",
       "title": "Kth Largest Element in an Array",
