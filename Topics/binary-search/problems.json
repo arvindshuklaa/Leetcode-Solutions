@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-09T16:55:45.162Z",
+  "updatedAt": "2026-09-09T16:55:54.952Z",
   "problems": [
     {
       "frontendId": "162",
@@ -63,6 +63,26 @@
           "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.cpp",
           "sha": "42d69b50389faa8a18a4ab0fd50dc1767abcaa95",
           "lastSyncedAt": "2026-09-09T16:55:45.162Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "852",
+      "title": "Peak Index in a Mountain Array",
+      "slug": "peak-index-in-a-mountain-array",
+      "problemName": "0852-peak-index-in-a-mountain-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+      "folderPath": "0852-peak-index-in-a-mountain-array/",
+      "readmePath": "0852-peak-index-in-a-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0852-peak-index-in-a-mountain-array.cpp",
+          "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.cpp",
+          "sha": "e6155f055ec56209eaf88eb7ad67171c185de1d0",
+          "lastSyncedAt": "2026-09-09T16:55:54.952Z"
         }
       ]
     }
