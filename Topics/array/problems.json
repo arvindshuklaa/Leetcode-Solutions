@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-09T16:55:29.406Z",
+  "updatedAt": "2026-09-09T16:55:39.494Z",
   "problems": [
     {
       "frontendId": "162",
@@ -63,6 +63,26 @@
           "path": "0724-find-pivot-index/0724-find-pivot-index.cpp",
           "sha": "8a8c7b44deed2e72911ea24afd9bf72584d7c27c",
           "lastSyncedAt": "2026-09-09T16:55:29.406Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1470-shuffle-the-array.cpp",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.cpp",
+          "sha": "10d35ea53349ca2f9f38de3bbf15c3a622e2b77b",
+          "lastSyncedAt": "2026-09-09T16:55:39.494Z"
         }
       ]
     }
