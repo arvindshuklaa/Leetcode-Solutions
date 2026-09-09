@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-09T16:57:37.627Z",
+  "updatedAt": "2026-09-09T17:01:08.760Z",
   "problems": [
     {
       "frontendId": "26",
@@ -62,7 +62,7 @@
           "filename": "0287-find-the-duplicate-number.cpp",
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
           "sha": "bfff521fa446aa815287337df6697c503158ce60",
-          "lastSyncedAt": "2026-09-09T16:54:58.194Z"
+          "lastSyncedAt": "2026-09-09T17:01:08.760Z"
         }
       ]
     },
