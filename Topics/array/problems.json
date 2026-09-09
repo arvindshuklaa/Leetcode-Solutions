@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-09T16:57:07.399Z",
+  "updatedAt": "2026-09-09T16:57:14.430Z",
   "problems": [
     {
       "frontendId": "26",
@@ -203,6 +203,26 @@
           "path": "1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.cpp",
           "sha": "83f9a04e9c78b825607a78f0c0ee7a34ba7eafe1",
           "lastSyncedAt": "2026-09-09T16:56:12.174Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "3875-construct-uniform-parity-array-i/",
+      "readmePath": "3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3875-construct-uniform-parity-array-i.cpp",
+          "path": "3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.cpp",
+          "sha": "ff51453a170391b0977b534e5d21a1072037f902",
+          "lastSyncedAt": "2026-09-09T16:57:14.430Z"
         }
       ]
     },
