@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-09T17:01:53.864Z",
+  "updatedAt": "2026-09-09T17:01:59.943Z",
   "problems": [
     {
       "frontendId": "69",
@@ -22,7 +22,7 @@
           "filename": "0069-sqrtx.cpp",
           "path": "0069-sqrtx/0069-sqrtx.cpp",
           "sha": "e7f859f72b62e53634ebc78af454d91d584c9536",
-          "lastSyncedAt": "2026-09-09T16:56:35.502Z"
+          "lastSyncedAt": "2026-09-09T17:01:59.943Z"
         }
       ]
     },
