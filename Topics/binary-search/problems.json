@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-09T16:54:58.194Z",
+  "updatedAt": "2026-09-09T16:55:22.248Z",
   "problems": [
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0162-find-peak-element.cpp",
+          "path": "0162-find-peak-element/0162-find-peak-element.cpp",
+          "sha": "0fb5f098448c917a8d9272d1f2988b370f7eeaaf",
+          "lastSyncedAt": "2026-09-09T16:55:22.248Z"
+        }
+      ]
+    },
     {
       "frontendId": "287",
       "title": "Find the Duplicate Number",
