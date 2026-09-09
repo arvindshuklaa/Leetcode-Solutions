@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-09T16:54:45.528Z",
+  "updatedAt": "2026-09-09T16:54:52.482Z",
   "problems": [
+    {
+      "frontendId": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "problemName": "3870-count-commas-in-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
+      "folderPath": "3870-count-commas-in-range/",
+      "readmePath": "3870-count-commas-in-range/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3870-count-commas-in-range.cpp",
+          "path": "3870-count-commas-in-range/3870-count-commas-in-range.cpp",
+          "sha": "1d4f22b900d088a020ae0a722a1fb75b024f5782",
+          "lastSyncedAt": "2026-09-09T16:54:52.482Z"
+        }
+      ]
+    },
     {
       "frontendId": "3871",
       "title": "Count Commas in Range II",
