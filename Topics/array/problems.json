@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-09T17:01:36.703Z",
+  "updatedAt": "2026-09-09T17:01:42.484Z",
   "problems": [
     {
       "frontendId": "26",
@@ -22,7 +22,7 @@
           "filename": "0026-remove-duplicates-from-sorted-array.cpp",
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.cpp",
           "sha": "fa6f6c807feac8b7b6ef16358df70e928ba46430",
-          "lastSyncedAt": "2026-09-09T16:56:05.552Z"
+          "lastSyncedAt": "2026-09-09T17:01:42.484Z"
         }
       ]
     },
