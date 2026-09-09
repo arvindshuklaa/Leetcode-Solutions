@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-09T16:56:26.961Z",
+  "updatedAt": "2026-09-09T16:56:35.502Z",
   "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "0069-sqrtx/",
+      "readmePath": "0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0069-sqrtx.cpp",
+          "path": "0069-sqrtx/0069-sqrtx.cpp",
+          "sha": "e7f859f72b62e53634ebc78af454d91d584c9536",
+          "lastSyncedAt": "2026-09-09T16:56:35.502Z"
+        }
+      ]
+    },
     {
       "frontendId": "162",
       "title": "Find Peak Element",
