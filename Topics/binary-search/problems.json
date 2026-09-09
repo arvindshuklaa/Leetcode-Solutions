@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-09T16:56:35.502Z",
+  "updatedAt": "2026-09-09T16:56:45.166Z",
   "problems": [
     {
       "frontendId": "69",
@@ -63,6 +63,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
           "sha": "bfff521fa446aa815287337df6697c503158ce60",
           "lastSyncedAt": "2026-09-09T16:54:58.194Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "367",
+      "title": "Valid Perfect Square",
+      "slug": "valid-perfect-square",
+      "problemName": "0367-valid-perfect-square",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-perfect-square/",
+      "folderPath": "0367-valid-perfect-square/",
+      "readmePath": "0367-valid-perfect-square/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0367-valid-perfect-square.cpp",
+          "path": "0367-valid-perfect-square/0367-valid-perfect-square.cpp",
+          "sha": "c8ec30f6eafae6ebc18da889aea41aaeda73294f",
+          "lastSyncedAt": "2026-09-09T16:56:45.166Z"
         }
       ]
     },
