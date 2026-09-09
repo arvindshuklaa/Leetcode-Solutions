@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-09T16:56:45.166Z",
+  "updatedAt": "2026-09-09T16:56:51.432Z",
   "problems": [
     {
       "frontendId": "69",
@@ -43,6 +43,26 @@
           "path": "0162-find-peak-element/0162-find-peak-element.cpp",
           "sha": "0fb5f098448c917a8d9272d1f2988b370f7eeaaf",
           "lastSyncedAt": "2026-09-09T16:55:22.248Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "problemName": "0278-first-bad-version",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+      "folderPath": "0278-first-bad-version/",
+      "readmePath": "0278-first-bad-version/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0278-first-bad-version.cpp",
+          "path": "0278-first-bad-version/0278-first-bad-version.cpp",
+          "sha": "a2189e1ef385fc8ebd74d5d345e62a8ef195eaf1",
+          "lastSyncedAt": "2026-09-09T16:56:51.432Z"
         }
       ]
     },
