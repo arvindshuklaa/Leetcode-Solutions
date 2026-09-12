@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-12T18:19:09.338Z",
+  "updatedAt": "2026-09-12T18:19:21.612Z",
   "problems": [
     {
       "frontendId": "268",
@@ -42,7 +42,7 @@
           "filename": "0287-find-the-duplicate-number.cpp",
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
           "sha": "bfff521fa446aa815287337df6697c503158ce60",
-          "lastSyncedAt": "2026-09-12T18:17:45.809Z"
+          "lastSyncedAt": "2026-09-12T18:19:21.612Z"
         }
       ]
     }
