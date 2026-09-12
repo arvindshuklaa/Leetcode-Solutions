@@ -4,7 +4,7 @@
     "slug": "pigeonhole-principle",
     "name": "Pigeonhole Principle"
   },
-  "updatedAt": "2026-09-12T18:20:16.222Z",
+  "updatedAt": "2026-09-12T18:21:21.686Z",
   "problems": [
     {
       "frontendId": "287",
@@ -22,7 +22,7 @@
           "filename": "0287-find-the-duplicate-number.cpp",
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
           "sha": "bfff521fa446aa815287337df6697c503158ce60",
-          "lastSyncedAt": "2026-09-12T18:20:16.222Z"
+          "lastSyncedAt": "2026-09-12T18:21:21.686Z"
         }
       ]
     }
