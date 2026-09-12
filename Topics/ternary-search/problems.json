@@ -4,7 +4,7 @@
     "slug": "ternary-search",
     "name": "Ternary Search"
   },
-  "updatedAt": "2026-09-12T18:20:36.976Z",
+  "updatedAt": "2026-09-12T18:21:44.244Z",
   "problems": [
     {
       "frontendId": "852",
@@ -22,7 +22,7 @@
           "filename": "0852-peak-index-in-a-mountain-array.cpp",
           "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.cpp",
           "sha": "e6155f055ec56209eaf88eb7ad67171c185de1d0",
-          "lastSyncedAt": "2026-09-12T18:20:36.976Z"
+          "lastSyncedAt": "2026-09-12T18:21:44.244Z"
         }
       ]
     }
