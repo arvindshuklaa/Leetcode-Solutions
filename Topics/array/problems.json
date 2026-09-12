@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-12T18:18:02.684Z",
+  "updatedAt": "2026-09-12T18:18:04.582Z",
   "problems": [
     {
       "frontendId": "26",
@@ -162,7 +162,7 @@
           "filename": "0540-single-element-in-a-sorted-array.cpp",
           "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.cpp",
           "sha": "42d69b50389faa8a18a4ab0fd50dc1767abcaa95",
-          "lastSyncedAt": "2026-09-09T17:01:32.493Z"
+          "lastSyncedAt": "2026-09-12T18:18:04.582Z"
         }
       ]
     },
