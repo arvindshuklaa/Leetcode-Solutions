@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-12T18:20:28.294Z",
+  "updatedAt": "2026-09-12T18:21:34.909Z",
   "problems": [
     {
       "frontendId": "724",
@@ -22,7 +22,7 @@
           "filename": "0724-find-pivot-index.cpp",
           "path": "0724-find-pivot-index/0724-find-pivot-index.cpp",
           "sha": "8a8c7b44deed2e72911ea24afd9bf72584d7c27c",
-          "lastSyncedAt": "2026-09-12T18:20:28.294Z"
+          "lastSyncedAt": "2026-09-12T18:21:34.909Z"
         }
       ]
     }
