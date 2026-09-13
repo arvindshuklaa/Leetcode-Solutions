@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-13T10:24:23.429Z",
+  "updatedAt": "2026-09-13T10:24:26.588Z",
   "problems": [
     {
       "frontendId": "26",
@@ -222,7 +222,7 @@
           "filename": "0852-peak-index-in-a-mountain-array.cpp",
           "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.cpp",
           "sha": "e6155f055ec56209eaf88eb7ad67171c185de1d0",
-          "lastSyncedAt": "2026-09-12T18:24:23.642Z"
+          "lastSyncedAt": "2026-09-13T10:24:26.588Z"
         }
       ]
     },
