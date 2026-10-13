@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T14:43:02.009Z",
+  "updatedAt": "2026-10-13T14:43:25.471Z",
   "problems": [
     {
       "frontendId": "258",
@@ -84,6 +84,26 @@
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
           "sha": "de40d8b1f82c564ef61987454936869b58c4b236",
           "lastSyncedAt": "2026-10-13T13:51:16.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3304",
+      "title": "Find the K-th Character in String Game I",
+      "slug": "find-the-k-th-character-in-string-game-i",
+      "problemName": "3304-find-the-k-th-character-in-string-game-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/",
+      "folderPath": "3304-find-the-k-th-character-in-string-game-i/",
+      "readmePath": "3304-find-the-k-th-character-in-string-game-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3304-find-the-k-th-character-in-string-game-i.cpp",
+          "path": "3304-find-the-k-th-character-in-string-game-i/3304-find-the-k-th-character-in-string-game-i.cpp",
+          "sha": "2045a6a904528a2b00ba1e957e1f98698ce8c3bb",
+          "lastSyncedAt": "2026-10-13T14:43:25.471Z"
         }
       ]
     },
