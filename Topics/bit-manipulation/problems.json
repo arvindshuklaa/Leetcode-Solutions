@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T14:33:17.389Z",
+  "updatedAt": "2026-10-13T14:38:15.418Z",
   "problems": [
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "0191-number-of-1-bits/",
+      "readmePath": "0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0191-number-of-1-bits.cpp",
+          "path": "0191-number-of-1-bits/0191-number-of-1-bits.cpp",
+          "sha": "be8fa7e78feba055284a7bcaf7f6111ef24c3833",
+          "lastSyncedAt": "2026-10-13T14:38:15.418Z"
+        }
+      ]
+    },
     {
       "frontendId": "260",
       "title": "Single Number III",
