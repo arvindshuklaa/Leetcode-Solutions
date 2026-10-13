@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T14:30:28.571Z",
+  "updatedAt": "2026-10-13T14:34:25.567Z",
   "problems": [
     {
       "frontendId": "75",
@@ -264,6 +264,26 @@
           "path": "1051-height-checker/1051-height-checker.cpp",
           "sha": "1967f5327de63b9a00d5b47169d1bb9eef01b123",
           "lastSyncedAt": "2026-10-13T14:18:27.035Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1331",
+      "title": "Rank Transform of an Array",
+      "slug": "rank-transform-of-an-array",
+      "problemName": "1331-rank-transform-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-transform-of-an-array/",
+      "folderPath": "1331-rank-transform-of-an-array/",
+      "readmePath": "1331-rank-transform-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1331-rank-transform-of-an-array.cpp",
+          "path": "1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.cpp",
+          "sha": "ba7dacdd4dfde46a0a780d13627ee41466c07116",
+          "lastSyncedAt": "2026-10-13T14:34:25.567Z"
         }
       ]
     },
