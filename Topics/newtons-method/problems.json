@@ -5,7 +5,7 @@
     "name": "Newton's Method",
     "tagId": "95680"
   },
-  "updatedAt": "2026-10-13T16:09:35.209Z",
+  "updatedAt": "2026-10-13T16:20:50.063Z",
   "problems": [
     {
       "frontendId": "69",
@@ -23,7 +23,7 @@
           "filename": "0069-sqrtx.cpp",
           "path": "0069-sqrtx/0069-sqrtx.cpp",
           "sha": "e7f859f72b62e53634ebc78af454d91d584c9536",
-          "lastSyncedAt": "2026-10-13T16:09:35.209Z"
+          "lastSyncedAt": "2026-10-13T16:20:50.063Z"
         }
       ]
     }
