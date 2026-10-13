@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:10:55.615Z",
+  "updatedAt": "2026-10-13T16:11:04.406Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1243,7 +1243,7 @@
           "filename": "2441-largest-positive-integer-that-exists-with-its-negative.cpp",
           "path": "2441-largest-positive-integer-that-exists-with-its-negative/2441-largest-positive-integer-that-exists-with-its-negative.cpp",
           "sha": "50c1711fba8cf928d5749f67ac1760c20d4ffe96",
-          "lastSyncedAt": "2026-10-13T14:11:33.784Z"
+          "lastSyncedAt": "2026-10-13T16:11:04.406Z"
         }
       ]
     },
