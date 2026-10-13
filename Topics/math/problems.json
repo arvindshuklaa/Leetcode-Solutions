@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T16:05:41.275Z",
+  "updatedAt": "2026-10-13T16:06:58.059Z",
   "problems": [
     {
       "frontendId": "12",
@@ -843,7 +843,7 @@
           "filename": "4061-minimum-queen-moves-to-reach-target.cpp",
           "path": "4061-minimum-queen-moves-to-reach-target/4061-minimum-queen-moves-to-reach-target.cpp",
           "sha": "925076f543a63c7684cbb926c823e0e040a1fa95",
-          "lastSyncedAt": "2026-10-13T13:56:31.790Z"
+          "lastSyncedAt": "2026-10-13T16:06:58.059Z"
         }
       ]
     }
