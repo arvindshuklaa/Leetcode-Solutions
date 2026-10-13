@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:07:11.226Z",
+  "updatedAt": "2026-10-13T16:07:24.819Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1303,7 +1303,7 @@
           "filename": "2656-maximum-sum-with-exactly-k-elements.cpp",
           "path": "2656-maximum-sum-with-exactly-k-elements/2656-maximum-sum-with-exactly-k-elements.cpp",
           "sha": "9cc73809d93ee1c7db2ae79f368acb504449a178",
-          "lastSyncedAt": "2026-10-13T13:58:02.422Z"
+          "lastSyncedAt": "2026-10-13T16:07:24.819Z"
         }
       ]
     },
