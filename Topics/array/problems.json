@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:23:21.445Z",
+  "updatedAt": "2026-10-13T14:25:36.820Z",
   "problems": [
     {
       "frontendId": "4",
@@ -544,6 +544,26 @@
           "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.cpp",
           "sha": "e6155f055ec56209eaf88eb7ad67171c185de1d0",
           "lastSyncedAt": "2026-10-13T14:03:35.218Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0877-stone-game.cpp",
+          "path": "0877-stone-game/0877-stone-game.cpp",
+          "sha": "d6af230485be9c834fdde3a448d97c74933b53fc",
+          "lastSyncedAt": "2026-10-13T14:25:36.820Z"
         }
       ]
     },
