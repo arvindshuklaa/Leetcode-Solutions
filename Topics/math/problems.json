@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:25:04.760Z",
+  "updatedAt": "2026-10-13T14:25:26.561Z",
   "problems": [
     {
       "frontendId": "69",
@@ -224,6 +224,26 @@
           "path": "1952-three-divisors/1952-three-divisors.cpp",
           "sha": "7dc6dc2e36e455fe894816367a9a67090e6427d9",
           "lastSyncedAt": "2026-10-13T14:23:39.817Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2235",
+      "title": "Add Two Integers",
+      "slug": "add-two-integers",
+      "problemName": "2235-add-two-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-integers/",
+      "folderPath": "2235-add-two-integers/",
+      "readmePath": "2235-add-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2235-add-two-integers.cpp",
+          "path": "2235-add-two-integers/2235-add-two-integers.cpp",
+          "sha": "4c1ed37d8d713af5db4ff96472956f0ef38b7604",
+          "lastSyncedAt": "2026-10-13T14:25:26.561Z"
         }
       ]
     },
