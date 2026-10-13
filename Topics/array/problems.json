@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:18:26.931Z",
+  "updatedAt": "2026-10-13T16:18:33.689Z",
   "problems": [
     {
       "frontendId": "1",
@@ -803,7 +803,7 @@
           "filename": "0922-sort-array-by-parity-ii.cpp",
           "path": "0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.cpp",
           "sha": "526800fc021b830b8b25dabaa53904f45a152732",
-          "lastSyncedAt": "2026-10-13T16:07:29.492Z"
+          "lastSyncedAt": "2026-10-13T16:18:33.689Z"
         }
       ]
     },
