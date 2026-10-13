@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:11:08.606Z",
+  "updatedAt": "2026-10-13T14:11:33.784Z",
   "problems": [
     {
       "frontendId": "4",
@@ -524,6 +524,26 @@
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
           "sha": "de40d8b1f82c564ef61987454936869b58c4b236",
           "lastSyncedAt": "2026-10-13T13:51:16.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2441",
+      "title": "Largest Positive Integer That Exists With Its Negative",
+      "slug": "largest-positive-integer-that-exists-with-its-negative",
+      "problemName": "2441-largest-positive-integer-that-exists-with-its-negative",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/",
+      "folderPath": "2441-largest-positive-integer-that-exists-with-its-negative/",
+      "readmePath": "2441-largest-positive-integer-that-exists-with-its-negative/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2441-largest-positive-integer-that-exists-with-its-negative.cpp",
+          "path": "2441-largest-positive-integer-that-exists-with-its-negative/2441-largest-positive-integer-that-exists-with-its-negative.cpp",
+          "sha": "50c1711fba8cf928d5749f67ac1760c20d4ffe96",
+          "lastSyncedAt": "2026-10-13T14:11:33.784Z"
         }
       ]
     },
