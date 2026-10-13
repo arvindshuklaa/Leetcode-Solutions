@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:50:05.076Z",
+  "updatedAt": "2026-10-13T13:50:36.528Z",
   "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "0035-search-insert-position/",
+      "readmePath": "0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0035-search-insert-position.cpp",
+          "path": "0035-search-insert-position/0035-search-insert-position.cpp",
+          "sha": "2d9a4c0854264277c4adabf962aaba0dc9ba46f3",
+          "lastSyncedAt": "2026-10-13T13:50:36.528Z"
+        }
+      ]
+    },
     {
       "frontendId": "2778",
       "title": "Sum of Squares of Special Elements ",
