@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:40:08.382Z",
+  "updatedAt": "2026-10-13T14:41:03.999Z",
   "problems": [
     {
       "frontendId": "1",
@@ -704,6 +704,26 @@
           "path": "0905-sort-array-by-parity/0905-sort-array-by-parity.cpp",
           "sha": "5960ee84eaaa4bd1e4c0ce87c892519a6ee5e0e4",
           "lastSyncedAt": "2026-10-13T13:58:58.533Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "908",
+      "title": "Smallest Range I",
+      "slug": "smallest-range-i",
+      "problemName": "0908-smallest-range-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-range-i/",
+      "folderPath": "0908-smallest-range-i/",
+      "readmePath": "0908-smallest-range-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0908-smallest-range-i.cpp",
+          "path": "0908-smallest-range-i/0908-smallest-range-i.cpp",
+          "sha": "0966106c135eaedc616b0012d4b8897e68ae6472",
+          "lastSyncedAt": "2026-10-13T14:41:03.999Z"
         }
       ]
     },
