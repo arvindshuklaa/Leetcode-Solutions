@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:12:43.685Z",
+  "updatedAt": "2026-10-13T16:12:55.386Z",
   "problems": [
     {
       "frontendId": "1",
@@ -403,7 +403,7 @@
           "filename": "0229-majority-element-ii.cpp",
           "path": "0229-majority-element-ii/0229-majority-element-ii.cpp",
           "sha": "828d9a9b6f6b826ed7d3a7836432d93d79b882dc",
-          "lastSyncedAt": "2026-10-13T14:19:13.011Z"
+          "lastSyncedAt": "2026-10-13T16:12:55.386Z"
         }
       ]
     },
