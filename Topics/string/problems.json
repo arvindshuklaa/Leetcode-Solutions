@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T14:37:35.832Z",
+  "updatedAt": "2026-10-13T14:37:54.618Z",
   "problems": [
     {
       "frontendId": "12",
@@ -144,6 +144,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp",
           "sha": "72877af96f2ed096b4a1aaef4e7e863c5361f8ed",
           "lastSyncedAt": "2026-10-13T13:56:52.925Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3541",
+      "title": "Find Most Frequent Vowel and Consonant",
+      "slug": "find-most-frequent-vowel-and-consonant",
+      "problemName": "3541-find-most-frequent-vowel-and-consonant",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/",
+      "folderPath": "3541-find-most-frequent-vowel-and-consonant/",
+      "readmePath": "3541-find-most-frequent-vowel-and-consonant/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3541-find-most-frequent-vowel-and-consonant.cpp",
+          "path": "3541-find-most-frequent-vowel-and-consonant/3541-find-most-frequent-vowel-and-consonant.cpp",
+          "sha": "4bc195ec3c71baa81ea818b794845b7ceb1a93ae",
+          "lastSyncedAt": "2026-10-13T14:37:54.618Z"
         }
       ]
     }
