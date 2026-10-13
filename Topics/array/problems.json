@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:54:40.599Z",
+  "updatedAt": "2026-10-13T13:56:02.013Z",
   "problems": [
     {
       "frontendId": "35",
@@ -164,6 +164,26 @@
           "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "sha": "59a800e405bf406ef7c89625d418dba2a69ccaab",
           "lastSyncedAt": "2026-10-13T13:49:35.137Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4062",
+      "title": "Transform Array Using Pair Operations",
+      "slug": "transform-array-using-pair-operations",
+      "problemName": "4062-transform-array-using-pair-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/transform-array-using-pair-operations/",
+      "folderPath": "4062-transform-array-using-pair-operations/",
+      "readmePath": "4062-transform-array-using-pair-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4062-transform-array-using-pair-operations.cpp",
+          "path": "4062-transform-array-using-pair-operations/4062-transform-array-using-pair-operations.cpp",
+          "sha": "54a90c9428a1dd57efe138903ea406ed3a3f50f6",
+          "lastSyncedAt": "2026-10-13T13:56:02.013Z"
         }
       ]
     },
