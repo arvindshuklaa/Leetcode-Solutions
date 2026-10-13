@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T16:35:56.190Z",
+  "updatedAt": "2026-10-13T16:36:02.110Z",
   "problems": [
     {
       "frontendId": "258",
@@ -103,7 +103,7 @@
           "filename": "3304-find-the-k-th-character-in-string-game-i.cpp",
           "path": "3304-find-the-k-th-character-in-string-game-i/3304-find-the-k-th-character-in-string-game-i.cpp",
           "sha": "2045a6a904528a2b00ba1e957e1f98698ce8c3bb",
-          "lastSyncedAt": "2026-10-13T14:43:25.471Z"
+          "lastSyncedAt": "2026-10-13T16:36:02.110Z"
         }
       ]
     },
