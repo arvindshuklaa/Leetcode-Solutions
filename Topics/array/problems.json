@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:27:52.680Z",
+  "updatedAt": "2026-10-13T14:28:22.556Z",
   "problems": [
     {
       "frontendId": "4",
@@ -804,6 +804,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp",
           "sha": "019e6e69c8126c0a97ddc29b1c7a39b6b29b75d5",
           "lastSyncedAt": "2026-10-13T14:10:39.009Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1512-number-of-good-pairs.cpp",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
+          "sha": "11197d07a774be9cdf722c1bfaad26cfa0a52fd7",
+          "lastSyncedAt": "2026-10-13T14:28:22.556Z"
         }
       ]
     },
