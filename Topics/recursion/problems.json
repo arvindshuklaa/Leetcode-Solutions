@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-13T16:38:29.363Z",
+  "updatedAt": "2026-10-13T16:39:05.748Z",
   "problems": [
     {
       "frontendId": "2",
@@ -104,6 +104,26 @@
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.cpp",
           "sha": "fd2534d1c20ab7d361d2ba0079678e9e0293c6ca",
           "lastSyncedAt": "2026-10-13T16:38:29.363Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "problemName": "0326-power-of-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
+      "folderPath": "0326-power-of-three/",
+      "readmePath": "0326-power-of-three/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0326-power-of-three.cpp",
+          "path": "0326-power-of-three/0326-power-of-three.cpp",
+          "sha": "e5d57bf54f8ee6c10bb66af2fccbfde08dfd1aca",
+          "lastSyncedAt": "2026-10-13T16:39:05.748Z"
         }
       ]
     },
