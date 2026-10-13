@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:45:24.631Z",
+  "updatedAt": "2026-10-13T14:45:36.935Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1104,6 +1104,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.cpp",
           "sha": "d98d08a7eae48280b7d26248797e33a3cc1ebadb",
           "lastSyncedAt": "2026-10-13T14:17:41.318Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1967",
+      "title": "Number of Strings That Appear as Substrings in Word",
+      "slug": "number-of-strings-that-appear-as-substrings-in-word",
+      "problemName": "1967-number-of-strings-that-appear-as-substrings-in-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/",
+      "folderPath": "1967-number-of-strings-that-appear-as-substrings-in-word/",
+      "readmePath": "1967-number-of-strings-that-appear-as-substrings-in-word/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
+          "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
+          "sha": "034a61365bb5b81f9d3d5361697e0f2a37bbb91d",
+          "lastSyncedAt": "2026-10-13T14:45:36.935Z"
         }
       ]
     },
