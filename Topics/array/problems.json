@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:02:23.499Z",
+  "updatedAt": "2026-10-13T14:02:42.066Z",
   "problems": [
     {
       "frontendId": "35",
@@ -124,6 +124,26 @@
           "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
           "sha": "b83d95afda5be1d4d8da08663bcbd77d6dfd1850",
           "lastSyncedAt": "2026-10-13T13:54:08.835Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "problemName": "0724-find-pivot-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "folderPath": "0724-find-pivot-index/",
+      "readmePath": "0724-find-pivot-index/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0724-find-pivot-index.cpp",
+          "path": "0724-find-pivot-index/0724-find-pivot-index.cpp",
+          "sha": "8a8c7b44deed2e72911ea24afd9bf72584d7c27c",
+          "lastSyncedAt": "2026-10-13T14:02:42.066Z"
         }
       ]
     },
