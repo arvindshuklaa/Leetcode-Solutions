@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T16:05:47.120Z",
+  "updatedAt": "2026-10-13T16:06:09.866Z",
   "problems": [
     {
       "frontendId": "12",
@@ -183,7 +183,7 @@
           "filename": "0709-to-lower-case.cpp",
           "path": "0709-to-lower-case/0709-to-lower-case.cpp",
           "sha": "1bc62de46d17dc6f9e4e1a293d206ace4248bcdc",
-          "lastSyncedAt": "2026-10-13T13:53:32.138Z"
+          "lastSyncedAt": "2026-10-13T16:06:09.866Z"
         }
       ]
     },
