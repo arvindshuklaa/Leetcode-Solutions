@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:41:51.742Z",
+  "updatedAt": "2026-10-13T14:42:18.075Z",
   "problems": [
     {
       "frontendId": "12",
@@ -184,6 +184,26 @@
           "path": "0367-valid-perfect-square/0367-valid-perfect-square.cpp",
           "sha": "c8ec30f6eafae6ebc18da889aea41aaeda73294f",
           "lastSyncedAt": "2026-10-13T14:05:57.852Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "371",
+      "title": "Sum of Two Integers",
+      "slug": "sum-of-two-integers",
+      "problemName": "0371-sum-of-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-two-integers/",
+      "folderPath": "0371-sum-of-two-integers/",
+      "readmePath": "0371-sum-of-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0371-sum-of-two-integers.cpp",
+          "path": "0371-sum-of-two-integers/0371-sum-of-two-integers.cpp",
+          "sha": "159e596be98d338a052bea0f4ec5facfbae2c813",
+          "lastSyncedAt": "2026-10-13T14:42:18.075Z"
         }
       ]
     },
