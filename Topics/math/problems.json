@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:22:24.045Z",
+  "updatedAt": "2026-10-13T14:22:43.972Z",
   "problems": [
     {
       "frontendId": "69",
@@ -204,6 +204,26 @@
           "path": "3099-harshad-number/3099-harshad-number.cpp",
           "sha": "c2a838eee3b913fcac22cf44bda05fef098fb495",
           "lastSyncedAt": "2026-10-13T13:57:41.197Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3345",
+      "title": "Smallest Divisible Digit Product I",
+      "slug": "smallest-divisible-digit-product-i",
+      "problemName": "3345-smallest-divisible-digit-product-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
+      "folderPath": "3345-smallest-divisible-digit-product-i/",
+      "readmePath": "3345-smallest-divisible-digit-product-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3345-smallest-divisible-digit-product-i.cpp",
+          "path": "3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.cpp",
+          "sha": "ec68903bab5ce6ac8fbf3ac6a06a358453c6ef0c",
+          "lastSyncedAt": "2026-10-13T14:22:43.972Z"
         }
       ]
     },
