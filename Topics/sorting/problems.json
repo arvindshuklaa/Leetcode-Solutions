@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T16:22:32.594Z",
+  "updatedAt": "2026-10-13T16:22:55.277Z",
   "problems": [
     {
       "frontendId": "75",
@@ -443,7 +443,7 @@
           "filename": "2824-count-pairs-whose-sum-is-less-than-target.cpp",
           "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.cpp",
           "sha": "250d947d4cd6cb40f821b2727f24a16c0f9f6b6f",
-          "lastSyncedAt": "2026-10-13T16:11:23.132Z"
+          "lastSyncedAt": "2026-10-13T16:22:55.277Z"
         }
       ]
     },
