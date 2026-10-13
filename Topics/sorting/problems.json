@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T16:26:43.357Z",
+  "updatedAt": "2026-10-13T16:26:57.930Z",
   "problems": [
     {
       "frontendId": "75",
@@ -463,7 +463,7 @@
           "filename": "3467-transform-array-by-parity.cpp",
           "path": "3467-transform-array-by-parity/3467-transform-array-by-parity.cpp",
           "sha": "12360865b9ada99fce5a01e8aa6c08b7e2c764a6",
-          "lastSyncedAt": "2026-10-13T16:15:15.122Z"
+          "lastSyncedAt": "2026-10-13T16:26:57.930Z"
         }
       ]
     },
