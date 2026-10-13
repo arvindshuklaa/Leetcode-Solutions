@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T14:41:51.742Z",
+  "updatedAt": "2026-10-13T14:43:47.085Z",
   "problems": [
     {
       "frontendId": "12",
@@ -84,6 +84,26 @@
           "path": "0171-excel-sheet-column-number/0171-excel-sheet-column-number.cpp",
           "sha": "a30494c06236d46982b440f48631996bcabaedf1",
           "lastSyncedAt": "2026-10-13T14:36:57.642Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "c5a7a1ca61e8a9ffe531c654c7de1be5d66a7021",
+          "lastSyncedAt": "2026-10-13T14:43:47.085Z"
         }
       ]
     },
