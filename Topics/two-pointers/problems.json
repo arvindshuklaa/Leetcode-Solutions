@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T14:11:33.784Z",
+  "updatedAt": "2026-10-13T14:12:16.474Z",
   "problems": [
     {
       "frontendId": "11",
@@ -284,6 +284,26 @@
           "path": "2441-largest-positive-integer-that-exists-with-its-negative/2441-largest-positive-integer-that-exists-with-its-negative.cpp",
           "sha": "50c1711fba8cf928d5749f67ac1760c20d4ffe96",
           "lastSyncedAt": "2026-10-13T14:11:33.784Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "2540-minimum-common-value/",
+      "readmePath": "2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2540-minimum-common-value.cpp",
+          "path": "2540-minimum-common-value/2540-minimum-common-value.cpp",
+          "sha": "67f6e46667f0a0a00c1629a022d72a0c27f5e567",
+          "lastSyncedAt": "2026-10-13T14:12:16.474Z"
         }
       ]
     }
