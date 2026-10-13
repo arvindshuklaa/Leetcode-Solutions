@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T13:52:05.393Z",
+  "updatedAt": "2026-10-13T14:00:11.572Z",
   "problems": [
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0268-missing-number.cpp",
+          "path": "0268-missing-number/0268-missing-number.cpp",
+          "sha": "922c6b7a12213d9df8a3daa1a321ec8e1a64a625",
+          "lastSyncedAt": "2026-10-13T14:00:11.572Z"
+        }
+      ]
+    },
     {
       "frontendId": "1342",
       "title": "Number of Steps to Reduce a Number to Zero",
