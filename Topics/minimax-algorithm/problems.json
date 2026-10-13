@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "minimax-algorithm",
+    "name": "Minimax",
+    "tagId": "35"
+  },
+  "updatedAt": "2026-10-13T14:19:44.391Z",
+  "problems": [
+    {
+      "frontendId": "292",
+      "title": "Nim Game",
+      "slug": "nim-game",
+      "problemName": "0292-nim-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/nim-game/",
+      "folderPath": "0292-nim-game/",
+      "readmePath": "0292-nim-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0292-nim-game.cpp",
+          "path": "0292-nim-game/0292-nim-game.cpp",
+          "sha": "730a6dece5349a1ae98d7cde42b190c2e1a0cce2",
+          "lastSyncedAt": "2026-10-13T14:19:44.391Z"
+        }
+      ]
+    }
+  ]
+}
