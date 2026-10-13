@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:17:29.255Z",
+  "updatedAt": "2026-10-13T14:19:44.391Z",
   "problems": [
     {
       "frontendId": "69",
@@ -64,6 +64,26 @@
           "path": "0268-missing-number/0268-missing-number.cpp",
           "sha": "922c6b7a12213d9df8a3daa1a321ec8e1a64a625",
           "lastSyncedAt": "2026-10-13T14:00:11.572Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "292",
+      "title": "Nim Game",
+      "slug": "nim-game",
+      "problemName": "0292-nim-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/nim-game/",
+      "folderPath": "0292-nim-game/",
+      "readmePath": "0292-nim-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0292-nim-game.cpp",
+          "path": "0292-nim-game/0292-nim-game.cpp",
+          "sha": "730a6dece5349a1ae98d7cde42b190c2e1a0cce2",
+          "lastSyncedAt": "2026-10-13T14:19:44.391Z"
         }
       ]
     },
