@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-13T14:32:29.139Z",
+  "updatedAt": "2026-10-13T14:33:29.752Z",
   "problems": [
     {
       "frontendId": "1952",
@@ -44,6 +44,26 @@
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
           "sha": "5910e4af7c3e5b5b7173771faf3da24b80b1068c",
           "lastSyncedAt": "2026-10-13T14:32:29.139Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "problemName": "3658-gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "folderPath": "3658-gcd-of-odd-and-even-sums/",
+      "readmePath": "3658-gcd-of-odd-and-even-sums/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3658-gcd-of-odd-and-even-sums.cpp",
+          "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.cpp",
+          "sha": "a1a6917fa90fb964aa1730a563e7ab7c88820aba",
+          "lastSyncedAt": "2026-10-13T14:33:29.752Z"
         }
       ]
     }
