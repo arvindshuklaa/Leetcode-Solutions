@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T16:12:55.386Z",
+  "updatedAt": "2026-10-13T16:13:35.819Z",
   "problems": [
     {
       "frontendId": "75",
@@ -343,7 +343,7 @@
           "filename": "1464-maximum-product-of-two-elements-in-an-array.cpp",
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.cpp",
           "sha": "83eadcdde41b9b64d65ae0b2da2a9f44ca4869a8",
-          "lastSyncedAt": "2026-10-13T14:22:03.023Z"
+          "lastSyncedAt": "2026-10-13T16:13:35.819Z"
         }
       ]
     },
