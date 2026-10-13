@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:32:29.139Z",
+  "updatedAt": "2026-10-13T14:33:29.752Z",
   "problems": [
     {
       "frontendId": "69",
@@ -464,6 +464,26 @@
           "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.cpp",
           "sha": "ae37c00dd8561dda814a9f27e5187af9fab0cecd",
           "lastSyncedAt": "2026-10-13T14:15:20.741Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "problemName": "3658-gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "folderPath": "3658-gcd-of-odd-and-even-sums/",
+      "readmePath": "3658-gcd-of-odd-and-even-sums/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3658-gcd-of-odd-and-even-sums.cpp",
+          "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.cpp",
+          "sha": "a1a6917fa90fb964aa1730a563e7ab7c88820aba",
+          "lastSyncedAt": "2026-10-13T14:33:29.752Z"
         }
       ]
     },
