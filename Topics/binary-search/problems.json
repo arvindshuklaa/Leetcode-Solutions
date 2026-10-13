@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T16:15:43.988Z",
+  "updatedAt": "2026-10-13T16:16:22.691Z",
   "problems": [
     {
       "frontendId": "4",
@@ -63,7 +63,7 @@
           "filename": "0035-search-insert-position.cpp",
           "path": "0035-search-insert-position/0035-search-insert-position.cpp",
           "sha": "2d9a4c0854264277c4adabf962aaba0dc9ba46f3",
-          "lastSyncedAt": "2026-10-13T16:05:21.710Z"
+          "lastSyncedAt": "2026-10-13T16:16:22.691Z"
         }
       ]
     },
