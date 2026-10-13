@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T16:23:26.450Z",
+  "updatedAt": "2026-10-13T16:23:58.467Z",
   "problems": [
     {
       "frontendId": "53",
@@ -23,7 +23,7 @@
           "filename": "0053-maximum-subarray.cpp",
           "path": "0053-maximum-subarray/0053-maximum-subarray.cpp",
           "sha": "c007a4326e7f159ea23bacfdd0b77554cff09cec",
-          "lastSyncedAt": "2026-10-13T16:12:24.103Z"
+          "lastSyncedAt": "2026-10-13T16:23:58.467Z"
         }
       ]
     },
