@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T13:56:52.925Z",
+  "updatedAt": "2026-10-13T14:17:41.318Z",
   "problems": [
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "1929-concatenation-of-array/",
+      "readmePath": "1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1929-concatenation-of-array.cpp",
+          "path": "1929-concatenation-of-array/1929-concatenation-of-array.cpp",
+          "sha": "d98d08a7eae48280b7d26248797e33a3cc1ebadb",
+          "lastSyncedAt": "2026-10-13T14:17:41.318Z"
+        }
+      ]
+    },
     {
       "frontendId": "2149",
       "title": "Rearrange Array Elements by Sign",
