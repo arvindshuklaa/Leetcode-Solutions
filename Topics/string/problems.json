@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-10-13T13:52:20.891Z",
+  "problems": [
+    {
+      "frontendId": "1768",
+      "title": "Merge Strings Alternately",
+      "slug": "merge-strings-alternately",
+      "problemName": "1768-merge-strings-alternately",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-strings-alternately/",
+      "folderPath": "1768-merge-strings-alternately/",
+      "readmePath": "1768-merge-strings-alternately/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1768-merge-strings-alternately.cpp",
+          "path": "1768-merge-strings-alternately/1768-merge-strings-alternately.cpp",
+          "sha": "c5a42e01842d6167ef42063dde04fd656808432b",
+          "lastSyncedAt": "2026-10-13T13:52:20.891Z"
+        }
+      ]
+    }
+  ]
+}
