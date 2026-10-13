@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:03:13.688Z",
+  "updatedAt": "2026-10-13T14:03:22.100Z",
   "problems": [
     {
       "frontendId": "35",
@@ -124,6 +124,26 @@
           "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
           "sha": "b83d95afda5be1d4d8da08663bcbd77d6dfd1850",
           "lastSyncedAt": "2026-10-13T13:54:08.835Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "problemName": "0540-single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+      "folderPath": "0540-single-element-in-a-sorted-array/",
+      "readmePath": "0540-single-element-in-a-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0540-single-element-in-a-sorted-array.cpp",
+          "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.cpp",
+          "sha": "42d69b50389faa8a18a4ab0fd50dc1767abcaa95",
+          "lastSyncedAt": "2026-10-13T14:03:22.100Z"
         }
       ]
     },
