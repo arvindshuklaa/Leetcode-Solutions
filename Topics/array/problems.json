@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:22:17.971Z",
+  "updatedAt": "2026-10-13T16:22:24.666Z",
   "problems": [
     {
       "frontendId": "1",
@@ -343,7 +343,7 @@
           "filename": "0167-two-sum-ii-input-array-is-sorted.cpp",
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
           "sha": "d7011e09c0b4eac0a64a9de5bdafc347f2874f88",
-          "lastSyncedAt": "2026-10-13T16:10:55.615Z"
+          "lastSyncedAt": "2026-10-13T16:22:24.666Z"
         }
       ]
     },
