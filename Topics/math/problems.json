@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:01:27.647Z",
+  "updatedAt": "2026-10-13T14:05:33.715Z",
   "problems": [
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "0069-sqrtx/",
+      "readmePath": "0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0069-sqrtx.cpp",
+          "path": "0069-sqrtx/0069-sqrtx.cpp",
+          "sha": "e7f859f72b62e53634ebc78af454d91d584c9536",
+          "lastSyncedAt": "2026-10-13T14:05:33.715Z"
+        }
+      ]
+    },
     {
       "frontendId": "263",
       "title": "Ugly Number",
