@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:12:55.386Z",
+  "updatedAt": "2026-10-13T16:13:24.365Z",
   "problems": [
     {
       "frontendId": "1",
@@ -443,7 +443,7 @@
           "filename": "0260-single-number-iii.cpp",
           "path": "0260-single-number-iii/0260-single-number-iii.cpp",
           "sha": "807e239426691cd318861ac75d57d8e035104318",
-          "lastSyncedAt": "2026-10-13T14:21:12.319Z"
+          "lastSyncedAt": "2026-10-13T16:13:24.365Z"
         }
       ]
     },
