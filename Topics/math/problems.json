@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:38:29.624Z",
+  "updatedAt": "2026-10-13T14:41:03.999Z",
   "problems": [
     {
       "frontendId": "12",
@@ -304,6 +304,26 @@
           "path": "0877-stone-game/0877-stone-game.cpp",
           "sha": "d6af230485be9c834fdde3a448d97c74933b53fc",
           "lastSyncedAt": "2026-10-13T14:25:36.820Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "908",
+      "title": "Smallest Range I",
+      "slug": "smallest-range-i",
+      "problemName": "0908-smallest-range-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-range-i/",
+      "folderPath": "0908-smallest-range-i/",
+      "readmePath": "0908-smallest-range-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0908-smallest-range-i.cpp",
+          "path": "0908-smallest-range-i/0908-smallest-range-i.cpp",
+          "sha": "0966106c135eaedc616b0012d4b8897e68ae6472",
+          "lastSyncedAt": "2026-10-13T14:41:03.999Z"
         }
       ]
     },
