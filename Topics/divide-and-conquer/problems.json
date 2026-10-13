@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T16:10:07.752Z",
+  "updatedAt": "2026-10-13T16:10:37.110Z",
   "problems": [
     {
       "frontendId": "4",
@@ -23,7 +23,7 @@
           "filename": "0004-median-of-two-sorted-arrays.cpp",
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "a58ecd5a1d2a1d778bfca34a3f59924594babbd9",
-          "lastSyncedAt": "2026-10-13T14:09:40.959Z"
+          "lastSyncedAt": "2026-10-13T16:10:37.110Z"
         }
       ]
     },
