@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:43:25.471Z",
+  "updatedAt": "2026-10-13T14:46:32.700Z",
   "problems": [
     {
       "frontendId": "12",
@@ -44,6 +44,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
           "sha": "eaa9f5c48403f14270a9f4c7c4a2ed2e5e2cbb68",
           "lastSyncedAt": "2026-10-13T14:37:18.278Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0066-plus-one.cpp",
+          "path": "0066-plus-one/0066-plus-one.cpp",
+          "sha": "77848257bad18cb99fdc5b036e51eb5977e0326d",
+          "lastSyncedAt": "2026-10-13T14:46:32.700Z"
         }
       ]
     },
