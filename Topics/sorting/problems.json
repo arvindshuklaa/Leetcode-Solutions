@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T14:30:01.517Z",
+  "updatedAt": "2026-10-13T14:30:28.571Z",
   "problems": [
     {
       "frontendId": "75",
@@ -384,6 +384,26 @@
           "path": "3467-transform-array-by-parity/3467-transform-array-by-parity.cpp",
           "sha": "12360865b9ada99fce5a01e8aa6c08b7e2c764a6",
           "lastSyncedAt": "2026-10-13T14:27:01.438Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "problemName": "3536-maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "folderPath": "3536-maximum-product-of-two-digits/",
+      "readmePath": "3536-maximum-product-of-two-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3536-maximum-product-of-two-digits.cpp",
+          "path": "3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.cpp",
+          "sha": "189dd99922be835be90459f070af5062c61e170f",
+          "lastSyncedAt": "2026-10-13T14:30:28.571Z"
         }
       ]
     },
