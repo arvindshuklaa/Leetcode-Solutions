@@ -5,7 +5,7 @@
     "name": "Brainteaser",
     "tagId": "32"
   },
-  "updatedAt": "2026-10-13T16:06:51.445Z",
+  "updatedAt": "2026-10-13T16:13:07.025Z",
   "problems": [
     {
       "frontendId": "292",
@@ -23,7 +23,7 @@
           "filename": "0292-nim-game.cpp",
           "path": "0292-nim-game/0292-nim-game.cpp",
           "sha": "730a6dece5349a1ae98d7cde42b190c2e1a0cce2",
-          "lastSyncedAt": "2026-10-13T14:19:44.391Z"
+          "lastSyncedAt": "2026-10-13T16:13:07.025Z"
         }
       ]
     },
