@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:35:08.104Z",
+  "updatedAt": "2026-10-13T16:35:25.049Z",
   "problems": [
     {
       "frontendId": "1",
@@ -783,7 +783,7 @@
           "filename": "0908-smallest-range-i.cpp",
           "path": "0908-smallest-range-i/0908-smallest-range-i.cpp",
           "sha": "0966106c135eaedc616b0012d4b8897e68ae6472",
-          "lastSyncedAt": "2026-10-13T14:41:03.999Z"
+          "lastSyncedAt": "2026-10-13T16:35:25.049Z"
         }
       ]
     },
