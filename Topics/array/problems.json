@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:13:41.314Z",
+  "updatedAt": "2026-10-13T14:14:11.024Z",
   "problems": [
     {
       "frontendId": "4",
@@ -244,6 +244,26 @@
           "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
           "sha": "b83d95afda5be1d4d8da08663bcbd77d6dfd1850",
           "lastSyncedAt": "2026-10-13T13:54:08.835Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "problemName": "0485-max-consecutive-ones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+      "folderPath": "0485-max-consecutive-ones/",
+      "readmePath": "0485-max-consecutive-ones/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0485-max-consecutive-ones.cpp",
+          "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.cpp",
+          "sha": "6f9ec35919a354bf997c8dd4b1c4ee683a105325",
+          "lastSyncedAt": "2026-10-13T14:14:11.024Z"
         }
       ]
     },
