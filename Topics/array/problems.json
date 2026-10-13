@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:39:33.974Z",
+  "updatedAt": "2026-10-13T14:40:08.382Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
           "sha": "bfff521fa446aa815287337df6697c503158ce60",
           "lastSyncedAt": "2026-10-13T14:01:34.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "330",
+      "title": "Patching Array",
+      "slug": "patching-array",
+      "problemName": "0330-patching-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/patching-array/",
+      "folderPath": "0330-patching-array/",
+      "readmePath": "0330-patching-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0330-patching-array.cpp",
+          "path": "0330-patching-array/0330-patching-array.cpp",
+          "sha": "df8cfd2a071956770604b060249df0925a0171e9",
+          "lastSyncedAt": "2026-10-13T14:40:08.382Z"
         }
       ]
     },
