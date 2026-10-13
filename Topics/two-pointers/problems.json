@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T16:22:55.277Z",
+  "updatedAt": "2026-10-13T16:23:05.675Z",
   "problems": [
     {
       "frontendId": "11",
@@ -403,7 +403,7 @@
           "filename": "2903-find-indices-with-index-and-value-difference-i.cpp",
           "path": "2903-find-indices-with-index-and-value-difference-i/2903-find-indices-with-index-and-value-difference-i.cpp",
           "sha": "129adac63519590df99688434348b42d797e629e",
-          "lastSyncedAt": "2026-10-13T16:11:33.125Z"
+          "lastSyncedAt": "2026-10-13T16:23:05.675Z"
         }
       ]
     }
