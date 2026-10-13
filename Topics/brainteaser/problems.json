@@ -5,7 +5,7 @@
     "name": "Brainteaser",
     "tagId": "32"
   },
-  "updatedAt": "2026-10-13T16:14:16.005Z",
+  "updatedAt": "2026-10-13T16:17:47.505Z",
   "problems": [
     {
       "frontendId": "292",
@@ -63,7 +63,7 @@
           "filename": "4062-transform-array-using-pair-operations.cpp",
           "path": "4062-transform-array-using-pair-operations/4062-transform-array-using-pair-operations.cpp",
           "sha": "54a90c9428a1dd57efe138903ea406ed3a3f50f6",
-          "lastSyncedAt": "2026-10-13T16:06:51.445Z"
+          "lastSyncedAt": "2026-10-13T16:17:47.505Z"
         }
       ]
     }
