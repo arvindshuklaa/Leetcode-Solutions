@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T14:27:35.311Z",
+  "updatedAt": "2026-10-13T14:36:57.642Z",
   "problems": [
     {
       "frontendId": "58",
@@ -24,6 +24,26 @@
           "path": "0058-length-of-last-word/0058-length-of-last-word.cpp",
           "sha": "eefc7670e1afc0e5b917978bd27ef6dec48a5ea4",
           "lastSyncedAt": "2026-10-13T14:27:35.311Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "171",
+      "title": "Excel Sheet Column Number",
+      "slug": "excel-sheet-column-number",
+      "problemName": "0171-excel-sheet-column-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
+      "folderPath": "0171-excel-sheet-column-number/",
+      "readmePath": "0171-excel-sheet-column-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0171-excel-sheet-column-number.cpp",
+          "path": "0171-excel-sheet-column-number/0171-excel-sheet-column-number.cpp",
+          "sha": "a30494c06236d46982b440f48631996bcabaedf1",
+          "lastSyncedAt": "2026-10-13T14:36:57.642Z"
         }
       ]
     },
