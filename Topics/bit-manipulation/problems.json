@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T16:33:24.046Z",
+  "updatedAt": "2026-10-13T16:34:42.708Z",
   "problems": [
     {
       "frontendId": "191",
@@ -23,7 +23,7 @@
           "filename": "0191-number-of-1-bits.cpp",
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.cpp",
           "sha": "be8fa7e78feba055284a7bcaf7f6111ef24c3833",
-          "lastSyncedAt": "2026-10-13T14:38:15.418Z"
+          "lastSyncedAt": "2026-10-13T16:34:42.708Z"
         }
       ]
     },
