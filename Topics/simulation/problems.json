@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T14:43:25.471Z",
+  "updatedAt": "2026-10-13T16:05:28.192Z",
   "problems": [
     {
       "frontendId": "258",
@@ -83,7 +83,7 @@
           "filename": "2149-rearrange-array-elements-by-sign.cpp",
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
           "sha": "de40d8b1f82c564ef61987454936869b58c4b236",
-          "lastSyncedAt": "2026-10-13T13:51:16.647Z"
+          "lastSyncedAt": "2026-10-13T16:05:28.192Z"
         }
       ]
     },
