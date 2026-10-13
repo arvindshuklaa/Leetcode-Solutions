@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T13:54:08.835Z",
+  "updatedAt": "2026-10-13T13:57:11.171Z",
   "problems": [
     {
       "frontendId": "35",
@@ -64,6 +64,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "b8e5fdcb9c2ed80755f7cdc7d36b803b2ee5ca41",
           "lastSyncedAt": "2026-10-13T13:53:05.815Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4056",
+      "title": "Number of Intersecting Interval Pairs I",
+      "slug": "number-of-intersecting-interval-pairs-i",
+      "problemName": "4056-number-of-intersecting-interval-pairs-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/",
+      "folderPath": "4056-number-of-intersecting-interval-pairs-i/",
+      "readmePath": "4056-number-of-intersecting-interval-pairs-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4056-number-of-intersecting-interval-pairs-i.cpp",
+          "path": "4056-number-of-intersecting-interval-pairs-i/4056-number-of-intersecting-interval-pairs-i.cpp",
+          "sha": "48ae85359fdb93b17ec82a08c6868761eaafc0ad",
+          "lastSyncedAt": "2026-10-13T13:57:11.171Z"
         }
       ]
     }
