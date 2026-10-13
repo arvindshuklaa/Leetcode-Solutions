@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T14:27:01.438Z",
+  "updatedAt": "2026-10-13T14:29:39.379Z",
   "problems": [
     {
       "frontendId": "75",
@@ -264,6 +264,26 @@
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.cpp",
           "sha": "83eadcdde41b9b64d65ae0b2da2a9f44ca4869a8",
           "lastSyncedAt": "2026-10-13T14:22:03.023Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1913",
+      "title": "Maximum Product Difference Between Two Pairs",
+      "slug": "maximum-product-difference-between-two-pairs",
+      "problemName": "1913-maximum-product-difference-between-two-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-difference-between-two-pairs/",
+      "folderPath": "1913-maximum-product-difference-between-two-pairs/",
+      "readmePath": "1913-maximum-product-difference-between-two-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1913-maximum-product-difference-between-two-pairs.cpp",
+          "path": "1913-maximum-product-difference-between-two-pairs/1913-maximum-product-difference-between-two-pairs.cpp",
+          "sha": "725c3313de786b76dbd826da8b086b0f268c33d8",
+          "lastSyncedAt": "2026-10-13T14:29:39.379Z"
         }
       ]
     },
