@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-13T16:33:11.834Z",
+  "updatedAt": "2026-10-13T16:33:31.012Z",
   "problems": [
     {
       "frontendId": "258",
@@ -83,7 +83,7 @@
           "filename": "3658-gcd-of-odd-and-even-sums.cpp",
           "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.cpp",
           "sha": "a1a6917fa90fb964aa1730a563e7ab7c88820aba",
-          "lastSyncedAt": "2026-10-13T14:33:29.752Z"
+          "lastSyncedAt": "2026-10-13T16:33:31.012Z"
         }
       ]
     }
