@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:09:40.959Z",
+  "updatedAt": "2026-10-13T14:10:12.005Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "a58ecd5a1d2a1d778bfca34a3f59924594babbd9",
           "lastSyncedAt": "2026-10-13T14:09:40.959Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "0011-container-with-most-water/",
+      "readmePath": "0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0011-container-with-most-water.cpp",
+          "path": "0011-container-with-most-water/0011-container-with-most-water.cpp",
+          "sha": "5e6e9541f92c64ad13f4c004ce4b0dff2194aff5",
+          "lastSyncedAt": "2026-10-13T14:10:12.005Z"
         }
       ]
     },
