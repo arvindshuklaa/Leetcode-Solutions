@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:25:26.561Z",
+  "updatedAt": "2026-10-13T14:25:36.820Z",
   "problems": [
     {
       "frontendId": "69",
@@ -144,6 +144,26 @@
           "path": "0836-rectangle-overlap/0836-rectangle-overlap.cpp",
           "sha": "ac4ea6c067cedd1eb8910b18e83cf5a77fc3b331",
           "lastSyncedAt": "2026-10-13T13:58:35.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0877-stone-game.cpp",
+          "path": "0877-stone-game/0877-stone-game.cpp",
+          "sha": "d6af230485be9c834fdde3a448d97c74933b53fc",
+          "lastSyncedAt": "2026-10-13T14:25:36.820Z"
         }
       ]
     },
