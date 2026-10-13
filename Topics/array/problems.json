@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:08:47.338Z",
+  "updatedAt": "2026-10-13T16:08:52.849Z",
   "problems": [
     {
       "frontendId": "1",
@@ -983,7 +983,7 @@
           "filename": "1470-shuffle-the-array.cpp",
           "path": "1470-shuffle-the-array/1470-shuffle-the-array.cpp",
           "sha": "10d35ea53349ca2f9f38de3bbf15c3a622e2b77b",
-          "lastSyncedAt": "2026-10-13T14:03:13.688Z"
+          "lastSyncedAt": "2026-10-13T16:08:52.849Z"
         }
       ]
     },
