@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:21:12.319Z",
+  "updatedAt": "2026-10-13T14:21:33.773Z",
   "problems": [
     {
       "frontendId": "4",
@@ -64,6 +64,26 @@
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.cpp",
           "sha": "fa6f6c807feac8b7b6ef16358df70e928ba46430",
           "lastSyncedAt": "2026-10-13T14:03:57.071Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "0033-search-in-rotated-sorted-array/",
+      "readmePath": "0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0033-search-in-rotated-sorted-array.cpp",
+          "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.cpp",
+          "sha": "a888eeb2ba2d4a95421464ca3f9136f0e4459a60",
+          "lastSyncedAt": "2026-10-13T14:21:33.773Z"
         }
       ]
     },
