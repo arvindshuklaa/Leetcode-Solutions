@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T14:29:14.977Z",
+  "updatedAt": "2026-10-13T14:31:58.851Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0001-two-sum.cpp",
+          "path": "0001-two-sum/0001-two-sum.cpp",
+          "sha": "5196a7ee07dc28f57e9dd15dd7a031f0810a4502",
+          "lastSyncedAt": "2026-10-13T14:31:58.851Z"
+        }
+      ]
+    },
     {
       "frontendId": "169",
       "title": "Majority Element",
