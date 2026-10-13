@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:46:32.700Z",
+  "updatedAt": "2026-10-13T16:05:36.587Z",
   "problems": [
     {
       "frontendId": "12",
@@ -143,7 +143,7 @@
           "filename": "0263-ugly-number.cpp",
           "path": "0263-ugly-number/0263-ugly-number.cpp",
           "sha": "d046b4f7f3047f40f040e3121c08ebd8e1c9a340",
-          "lastSyncedAt": "2026-10-13T13:51:50.380Z"
+          "lastSyncedAt": "2026-10-13T16:05:36.587Z"
         }
       ]
     },
