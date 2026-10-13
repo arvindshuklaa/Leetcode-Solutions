@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-13T14:25:04.760Z",
+  "updatedAt": "2026-10-13T14:31:32.313Z",
   "problems": [
     {
       "frontendId": "342",
@@ -24,6 +24,26 @@
           "path": "0342-power-of-four/0342-power-of-four.cpp",
           "sha": "dcd1cba0227171fe70a24b8ef09bfa63e1c9c5b4",
           "lastSyncedAt": "2026-10-13T14:25:04.760Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0509-fibonacci-number.cpp",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
+          "sha": "70df7364f609585a91c82de3b412bbe39402b4d3",
+          "lastSyncedAt": "2026-10-13T14:31:32.313Z"
         }
       ]
     }
