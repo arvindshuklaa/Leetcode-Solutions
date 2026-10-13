@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:31:32.313Z",
+  "updatedAt": "2026-10-13T14:32:22.289Z",
   "problems": [
     {
       "frontendId": "69",
@@ -224,6 +224,26 @@
           "path": "1025-divisor-game/1025-divisor-game.cpp",
           "sha": "7cd28c2edd24c0d6ef0bbc68741ecbc47e0b0a24",
           "lastSyncedAt": "2026-10-13T14:24:31.440Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1281",
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "problemName": "1281-subtract-the-product-and-sum-of-digits-of-an-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "folderPath": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "readmePath": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp",
+          "path": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp",
+          "sha": "2ce3795816c09fd1b0bcd8466d0c9be43b63de64",
+          "lastSyncedAt": "2026-10-13T14:32:22.289Z"
         }
       ]
     },
