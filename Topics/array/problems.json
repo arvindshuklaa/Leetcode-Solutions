@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:27:38.484Z",
+  "updatedAt": "2026-10-13T16:27:45.332Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1123,7 +1123,7 @@
           "filename": "1913-maximum-product-difference-between-two-pairs.cpp",
           "path": "1913-maximum-product-difference-between-two-pairs/1913-maximum-product-difference-between-two-pairs.cpp",
           "sha": "725c3313de786b76dbd826da8b086b0f268c33d8",
-          "lastSyncedAt": "2026-10-13T14:29:39.379Z"
+          "lastSyncedAt": "2026-10-13T16:27:45.332Z"
         }
       ]
     },
