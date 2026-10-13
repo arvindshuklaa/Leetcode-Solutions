@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T16:20:34.852Z",
+  "updatedAt": "2026-10-13T16:21:45.356Z",
   "problems": [
     {
       "frontendId": "11",
@@ -63,7 +63,7 @@
           "filename": "0075-sort-colors.cpp",
           "path": "0075-sort-colors/0075-sort-colors.cpp",
           "sha": "5fd6a3c161f991b1915065582f85049ca34ed901",
-          "lastSyncedAt": "2026-10-13T16:10:22.212Z"
+          "lastSyncedAt": "2026-10-13T16:21:45.356Z"
         }
       ]
     },
