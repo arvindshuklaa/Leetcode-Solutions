@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T13:52:20.891Z",
+  "updatedAt": "2026-10-13T13:52:38.441Z",
   "problems": [
+    {
+      "frontendId": "1089",
+      "title": "Duplicate Zeros",
+      "slug": "duplicate-zeros",
+      "problemName": "1089-duplicate-zeros",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-zeros/",
+      "folderPath": "1089-duplicate-zeros/",
+      "readmePath": "1089-duplicate-zeros/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1089-duplicate-zeros.cpp",
+          "path": "1089-duplicate-zeros/1089-duplicate-zeros.cpp",
+          "sha": "3583b4f409e14a74dd3581c72d34e766acc6d2b8",
+          "lastSyncedAt": "2026-10-13T13:52:38.441Z"
+        }
+      ]
+    },
     {
       "frontendId": "1768",
       "title": "Merge Strings Alternately",
