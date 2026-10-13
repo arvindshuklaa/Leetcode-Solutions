@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T14:14:47.839Z",
+  "updatedAt": "2026-10-13T14:16:51.538Z",
   "problems": [
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "0053-maximum-subarray/",
+      "readmePath": "0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0053-maximum-subarray.cpp",
+          "path": "0053-maximum-subarray/0053-maximum-subarray.cpp",
+          "sha": "c007a4326e7f159ea23bacfdd0b77554cff09cec",
+          "lastSyncedAt": "2026-10-13T14:16:51.538Z"
+        }
+      ]
+    },
     {
       "frontendId": "152",
       "title": "Maximum Product Subarray",
