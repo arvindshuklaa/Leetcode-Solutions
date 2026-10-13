@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T16:37:45.293Z",
+  "updatedAt": "2026-10-13T16:38:38.070Z",
   "problems": [
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "0136-single-number/",
+      "readmePath": "0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0136-single-number.cpp",
+          "path": "0136-single-number/0136-single-number.cpp",
+          "sha": "f73ea381fb2cedb2607d211bcdd1c65eb6742bcc",
+          "lastSyncedAt": "2026-10-13T16:38:38.070Z"
+        }
+      ]
+    },
     {
       "frontendId": "137",
       "title": "Single Number II",
