@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:36:09.850Z",
+  "updatedAt": "2026-10-13T14:36:41.264Z",
   "problems": [
     {
       "frontendId": "69",
@@ -124,6 +124,26 @@
           "path": "0367-valid-perfect-square/0367-valid-perfect-square.cpp",
           "sha": "c8ec30f6eafae6ebc18da889aea41aaeda73294f",
           "lastSyncedAt": "2026-10-13T14:05:57.852Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "492",
+      "title": "Construct the Rectangle",
+      "slug": "construct-the-rectangle",
+      "problemName": "0492-construct-the-rectangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-the-rectangle/",
+      "folderPath": "0492-construct-the-rectangle/",
+      "readmePath": "0492-construct-the-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0492-construct-the-rectangle.cpp",
+          "path": "0492-construct-the-rectangle/0492-construct-the-rectangle.cpp",
+          "sha": "e146b32e11c4d35d1e9198e3fdd98f6ca90179c6",
+          "lastSyncedAt": "2026-10-13T14:36:41.264Z"
         }
       ]
     },
