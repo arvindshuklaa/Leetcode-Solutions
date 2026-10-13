@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "heap-priority-queue",
+    "name": "Heap (Priority Queue)",
+    "tagId": "61050"
+  },
+  "updatedAt": "2026-10-13T13:54:40.599Z",
+  "problems": [
+    {
+      "frontendId": "4065",
+      "title": "Rearrange Array by Removing Distinct Values",
+      "slug": "rearrange-array-by-removing-distinct-values",
+      "problemName": "4065-rearrange-array-by-removing-distinct-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/",
+      "folderPath": "4065-rearrange-array-by-removing-distinct-values/",
+      "readmePath": "4065-rearrange-array-by-removing-distinct-values/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4065-rearrange-array-by-removing-distinct-values.cpp",
+          "path": "4065-rearrange-array-by-removing-distinct-values/4065-rearrange-array-by-removing-distinct-values.cpp",
+          "sha": "c1435712aaed2895a8fdbaa59d3c0eb1bcdf5459",
+          "lastSyncedAt": "2026-10-13T13:54:40.599Z"
+        }
+      ]
+    }
+  ]
+}
