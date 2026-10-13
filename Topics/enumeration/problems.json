@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-13T13:50:05.076Z",
+  "updatedAt": "2026-10-13T13:57:11.171Z",
   "problems": [
     {
       "frontendId": "2778",
@@ -24,6 +24,26 @@
           "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
           "sha": "3b79eab51245a6a09c8298e0b26f8b1be12f32fc",
           "lastSyncedAt": "2026-10-13T13:50:05.076Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4056",
+      "title": "Number of Intersecting Interval Pairs I",
+      "slug": "number-of-intersecting-interval-pairs-i",
+      "problemName": "4056-number-of-intersecting-interval-pairs-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/",
+      "folderPath": "4056-number-of-intersecting-interval-pairs-i/",
+      "readmePath": "4056-number-of-intersecting-interval-pairs-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4056-number-of-intersecting-interval-pairs-i.cpp",
+          "path": "4056-number-of-intersecting-interval-pairs-i/4056-number-of-intersecting-interval-pairs-i.cpp",
+          "sha": "48ae85359fdb93b17ec82a08c6868761eaafc0ad",
+          "lastSyncedAt": "2026-10-13T13:57:11.171Z"
         }
       ]
     }
