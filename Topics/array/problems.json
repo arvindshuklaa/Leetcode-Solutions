@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:09:56.998Z",
+  "updatedAt": "2026-10-13T16:10:02.031Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1423,7 +1423,7 @@
           "filename": "3875-construct-uniform-parity-array-i.cpp",
           "path": "3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.cpp",
           "sha": "ff51453a170391b0977b534e5d21a1072037f902",
-          "lastSyncedAt": "2026-10-13T14:07:29.201Z"
+          "lastSyncedAt": "2026-10-13T16:10:02.031Z"
         }
       ]
     },
