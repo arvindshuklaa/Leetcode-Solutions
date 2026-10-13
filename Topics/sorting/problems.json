@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T13:54:08.835Z",
+  "updatedAt": "2026-10-13T13:54:40.599Z",
   "problems": [
     {
       "frontendId": "350",
@@ -44,6 +44,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "b8e5fdcb9c2ed80755f7cdc7d36b803b2ee5ca41",
           "lastSyncedAt": "2026-10-13T13:53:05.815Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4065",
+      "title": "Rearrange Array by Removing Distinct Values",
+      "slug": "rearrange-array-by-removing-distinct-values",
+      "problemName": "4065-rearrange-array-by-removing-distinct-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/",
+      "folderPath": "4065-rearrange-array-by-removing-distinct-values/",
+      "readmePath": "4065-rearrange-array-by-removing-distinct-values/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4065-rearrange-array-by-removing-distinct-values.cpp",
+          "path": "4065-rearrange-array-by-removing-distinct-values/4065-rearrange-array-by-removing-distinct-values.cpp",
+          "sha": "c1435712aaed2895a8fdbaa59d3c0eb1bcdf5459",
+          "lastSyncedAt": "2026-10-13T13:54:40.599Z"
         }
       ]
     }
