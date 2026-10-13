@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T14:24:31.440Z",
+  "updatedAt": "2026-10-13T14:25:36.820Z",
   "problems": [
     {
       "frontendId": "53",
@@ -44,6 +44,26 @@
           "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.cpp",
           "sha": "185aa596177627ff04ab211564a0104429e3c72f",
           "lastSyncedAt": "2026-10-13T14:14:47.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0877-stone-game.cpp",
+          "path": "0877-stone-game/0877-stone-game.cpp",
+          "sha": "d6af230485be9c834fdde3a448d97c74933b53fc",
+          "lastSyncedAt": "2026-10-13T14:25:36.820Z"
         }
       ]
     },
