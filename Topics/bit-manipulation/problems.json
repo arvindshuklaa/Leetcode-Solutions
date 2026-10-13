@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T13:49:35.137Z",
+  "updatedAt": "2026-10-13T13:52:05.393Z",
   "problems": [
+    {
+      "frontendId": "1342",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "problemName": "1342-number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+      "folderPath": "1342-number-of-steps-to-reduce-a-number-to-zero/",
+      "readmePath": "1342-number-of-steps-to-reduce-a-number-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
+          "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
+          "sha": "cad2cb49e6daf2f64c75e501fe67cf83da1e84e8",
+          "lastSyncedAt": "2026-10-13T13:52:05.393Z"
+        }
+      ]
+    },
     {
       "frontendId": "2897",
       "title": "Apply Operations on Array to Maximize Sum of Squares",
