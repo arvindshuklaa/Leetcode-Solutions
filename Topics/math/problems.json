@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:15:20.741Z",
+  "updatedAt": "2026-10-13T14:17:29.255Z",
   "problems": [
     {
       "frontendId": "69",
@@ -124,6 +124,26 @@
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
           "sha": "cad2cb49e6daf2f64c75e501fe67cf83da1e84e8",
           "lastSyncedAt": "2026-10-13T13:52:05.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2769",
+      "title": "Find the Maximum Achievable Number",
+      "slug": "find-the-maximum-achievable-number",
+      "problemName": "2769-find-the-maximum-achievable-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-achievable-number/",
+      "folderPath": "2769-find-the-maximum-achievable-number/",
+      "readmePath": "2769-find-the-maximum-achievable-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2769-find-the-maximum-achievable-number.cpp",
+          "path": "2769-find-the-maximum-achievable-number/2769-find-the-maximum-achievable-number.cpp",
+          "sha": "6df1e6aeddf4d5af61b1fb7052a30cfb38782cfe",
+          "lastSyncedAt": "2026-10-13T14:17:29.255Z"
         }
       ]
     },
