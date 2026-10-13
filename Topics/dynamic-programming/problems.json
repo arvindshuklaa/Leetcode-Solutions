@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T16:28:16.353Z",
+  "updatedAt": "2026-10-13T16:33:24.046Z",
   "problems": [
     {
       "frontendId": "53",
@@ -103,7 +103,7 @@
           "filename": "0338-counting-bits.cpp",
           "path": "0338-counting-bits/0338-counting-bits.cpp",
           "sha": "858db81dbbb22b2372e212915048ab7c77021594",
-          "lastSyncedAt": "2026-10-13T14:33:17.389Z"
+          "lastSyncedAt": "2026-10-13T16:33:24.046Z"
         }
       ]
     },
