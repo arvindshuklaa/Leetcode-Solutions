@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:11:48.662Z",
+  "updatedAt": "2026-10-13T16:11:54.006Z",
   "problems": [
     {
       "frontendId": "1",
@@ -263,7 +263,7 @@
           "filename": "0152-maximum-product-subarray.cpp",
           "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.cpp",
           "sha": "185aa596177627ff04ab211564a0104429e3c72f",
-          "lastSyncedAt": "2026-10-13T14:14:47.839Z"
+          "lastSyncedAt": "2026-10-13T16:11:54.006Z"
         }
       ]
     },
