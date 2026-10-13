@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T14:39:33.974Z",
+  "updatedAt": "2026-10-13T14:40:08.382Z",
   "problems": [
     {
       "frontendId": "11",
@@ -44,6 +44,26 @@
           "path": "0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.cpp",
           "sha": "b9e349e24489df2168f316a67d5ca336b3a33b2b",
           "lastSyncedAt": "2026-10-13T14:39:33.974Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "330",
+      "title": "Patching Array",
+      "slug": "patching-array",
+      "problemName": "0330-patching-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/patching-array/",
+      "folderPath": "0330-patching-array/",
+      "readmePath": "0330-patching-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0330-patching-array.cpp",
+          "path": "0330-patching-array/0330-patching-array.cpp",
+          "sha": "df8cfd2a071956770604b060249df0925a0171e9",
+          "lastSyncedAt": "2026-10-13T14:40:08.382Z"
         }
       ]
     },
