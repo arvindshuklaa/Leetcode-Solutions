@@ -5,8 +5,28 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-13T14:33:29.752Z",
+  "updatedAt": "2026-10-13T14:43:02.009Z",
   "problems": [
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0258-add-digits.cpp",
+          "path": "0258-add-digits/0258-add-digits.cpp",
+          "sha": "9f31f05ee86e3c985d561d6300b2bd7dc8cba9d1",
+          "lastSyncedAt": "2026-10-13T14:43:02.009Z"
+        }
+      ]
+    },
     {
       "frontendId": "1952",
       "title": "Three Divisors",
