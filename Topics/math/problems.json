@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:24:31.440Z",
+  "updatedAt": "2026-10-13T14:25:04.760Z",
   "problems": [
     {
       "frontendId": "69",
@@ -84,6 +84,26 @@
           "path": "0292-nim-game/0292-nim-game.cpp",
           "sha": "730a6dece5349a1ae98d7cde42b190c2e1a0cce2",
           "lastSyncedAt": "2026-10-13T14:19:44.391Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "0342-power-of-four/",
+      "readmePath": "0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0342-power-of-four.cpp",
+          "path": "0342-power-of-four/0342-power-of-four.cpp",
+          "sha": "dcd1cba0227171fe70a24b8ef09bfa63e1c9c5b4",
+          "lastSyncedAt": "2026-10-13T14:25:04.760Z"
         }
       ]
     },
