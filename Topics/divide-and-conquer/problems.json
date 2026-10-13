@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T16:12:09.343Z",
+  "updatedAt": "2026-10-13T16:12:24.103Z",
   "problems": [
     {
       "frontendId": "4",
@@ -43,7 +43,7 @@
           "filename": "0053-maximum-subarray.cpp",
           "path": "0053-maximum-subarray/0053-maximum-subarray.cpp",
           "sha": "c007a4326e7f159ea23bacfdd0b77554cff09cec",
-          "lastSyncedAt": "2026-10-13T14:16:51.538Z"
+          "lastSyncedAt": "2026-10-13T16:12:24.103Z"
         }
       ]
     },
