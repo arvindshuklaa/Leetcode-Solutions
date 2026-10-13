@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:26:17.798Z",
+  "updatedAt": "2026-10-13T14:27:01.438Z",
   "problems": [
     {
       "frontendId": "4",
@@ -1024,6 +1024,26 @@
           "path": "2903-find-indices-with-index-and-value-difference-i/2903-find-indices-with-index-and-value-difference-i.cpp",
           "sha": "129adac63519590df99688434348b42d797e629e",
           "lastSyncedAt": "2026-10-13T14:13:27.418Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3467",
+      "title": "Transform Array by Parity",
+      "slug": "transform-array-by-parity",
+      "problemName": "3467-transform-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transform-array-by-parity/",
+      "folderPath": "3467-transform-array-by-parity/",
+      "readmePath": "3467-transform-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3467-transform-array-by-parity.cpp",
+          "path": "3467-transform-array-by-parity/3467-transform-array-by-parity.cpp",
+          "sha": "12360865b9ada99fce5a01e8aa6c08b7e2c764a6",
+          "lastSyncedAt": "2026-10-13T14:27:01.438Z"
         }
       ]
     },
