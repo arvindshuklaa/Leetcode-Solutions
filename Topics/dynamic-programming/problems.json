@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T14:31:32.313Z",
+  "updatedAt": "2026-10-13T14:33:17.389Z",
   "problems": [
     {
       "frontendId": "53",
@@ -44,6 +44,26 @@
           "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.cpp",
           "sha": "185aa596177627ff04ab211564a0104429e3c72f",
           "lastSyncedAt": "2026-10-13T14:14:47.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "0338-counting-bits/",
+      "readmePath": "0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0338-counting-bits.cpp",
+          "path": "0338-counting-bits/0338-counting-bits.cpp",
+          "sha": "858db81dbbb22b2372e212915048ab7c77021594",
+          "lastSyncedAt": "2026-10-13T14:33:17.389Z"
         }
       ]
     },
