@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-13T16:36:02.110Z",
+  "updatedAt": "2026-10-13T16:36:57.965Z",
   "problems": [
     {
       "frontendId": "21",
@@ -24,6 +24,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
           "sha": "714c958445f3b64b2b8c1055f4635008df2d6e82",
           "lastSyncedAt": "2026-10-13T16:35:30.960Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0050-powx-n.cpp",
+          "path": "0050-powx-n/0050-powx-n.cpp",
+          "sha": "f8bfa65500e056e2a0ef34048d7036b9bc414910",
+          "lastSyncedAt": "2026-10-13T16:36:57.965Z"
         }
       ]
     },
