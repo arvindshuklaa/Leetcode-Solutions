@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T14:31:05.193Z",
+  "updatedAt": "2026-10-13T14:41:51.742Z",
   "problems": [
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0412-fizz-buzz.cpp",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.cpp",
+          "sha": "feb8af7e064c73ac65a867d6244568d9e55d1f70",
+          "lastSyncedAt": "2026-10-13T14:41:51.742Z"
+        }
+      ]
+    },
     {
       "frontendId": "1929",
       "title": "Concatenation of Array",
