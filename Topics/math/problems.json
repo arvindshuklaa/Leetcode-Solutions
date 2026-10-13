@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:41:03.999Z",
+  "updatedAt": "2026-10-13T14:41:43.520Z",
   "problems": [
     {
       "frontendId": "12",
@@ -204,6 +204,26 @@
           "path": "0492-construct-the-rectangle/0492-construct-the-rectangle.cpp",
           "sha": "e146b32e11c4d35d1e9198e3fdd98f6ca90179c6",
           "lastSyncedAt": "2026-10-13T14:36:41.264Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "507",
+      "title": "Perfect Number",
+      "slug": "perfect-number",
+      "problemName": "0507-perfect-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-number/",
+      "folderPath": "0507-perfect-number/",
+      "readmePath": "0507-perfect-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0507-perfect-number.cpp",
+          "path": "0507-perfect-number/0507-perfect-number.cpp",
+          "sha": "9d3627855f81064a19411b56f46634c96d046586",
+          "lastSyncedAt": "2026-10-13T14:41:43.520Z"
         }
       ]
     },
