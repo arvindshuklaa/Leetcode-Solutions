@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T13:58:02.422Z",
+  "updatedAt": "2026-10-13T13:58:20.894Z",
   "problems": [
     {
       "frontendId": "35",
@@ -44,6 +44,26 @@
           "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
           "sha": "b83d95afda5be1d4d8da08663bcbd77d6dfd1850",
           "lastSyncedAt": "2026-10-13T13:54:08.835Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "922",
+      "title": "Sort Array By Parity II",
+      "slug": "sort-array-by-parity-ii",
+      "problemName": "0922-sort-array-by-parity-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+      "folderPath": "0922-sort-array-by-parity-ii/",
+      "readmePath": "0922-sort-array-by-parity-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0922-sort-array-by-parity-ii.cpp",
+          "path": "0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.cpp",
+          "sha": "526800fc021b830b8b25dabaa53904f45a152732",
+          "lastSyncedAt": "2026-10-13T13:58:20.894Z"
         }
       ]
     },
