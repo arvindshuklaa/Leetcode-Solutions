@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:03:57.071Z",
+  "updatedAt": "2026-10-13T14:04:23.953Z",
   "problems": [
     {
       "frontendId": "26",
@@ -304,6 +304,26 @@
           "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.cpp",
           "sha": "79231afb1e3baa942a674c9a48144a95dd42ddd3",
           "lastSyncedAt": "2026-10-13T13:53:44.165Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "problemName": "1752-check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+      "folderPath": "1752-check-if-array-is-sorted-and-rotated/",
+      "readmePath": "1752-check-if-array-is-sorted-and-rotated/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1752-check-if-array-is-sorted-and-rotated.cpp",
+          "path": "1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.cpp",
+          "sha": "83f9a04e9c78b825607a78f0c0ee7a34ba7eafe1",
+          "lastSyncedAt": "2026-10-13T14:04:23.953Z"
         }
       ]
     },
