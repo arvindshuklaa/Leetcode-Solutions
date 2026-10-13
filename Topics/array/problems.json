@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:30:01.517Z",
+  "updatedAt": "2026-10-13T14:31:05.193Z",
   "problems": [
     {
       "frontendId": "4",
@@ -1204,6 +1204,26 @@
           "path": "3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.cpp",
           "sha": "85358bb08780a8bcc536bb3df9af2f6cd6cf47fc",
           "lastSyncedAt": "2026-10-13T14:07:01.334Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3925",
+      "title": "Concatenate Array With Reverse",
+      "slug": "concatenate-array-with-reverse",
+      "problemName": "3925-concatenate-array-with-reverse",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenate-array-with-reverse/",
+      "folderPath": "3925-concatenate-array-with-reverse/",
+      "readmePath": "3925-concatenate-array-with-reverse/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3925-concatenate-array-with-reverse.cpp",
+          "path": "3925-concatenate-array-with-reverse/3925-concatenate-array-with-reverse.cpp",
+          "sha": "01d305e505ac07a70fce3196c768ba81ee152896",
+          "lastSyncedAt": "2026-10-13T14:31:05.193Z"
         }
       ]
     },
