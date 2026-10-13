@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T16:22:07.466Z",
+  "updatedAt": "2026-10-13T16:23:10.991Z",
   "problems": [
     {
       "frontendId": "11",
@@ -83,7 +83,7 @@
           "filename": "0605-can-place-flowers.cpp",
           "path": "0605-can-place-flowers/0605-can-place-flowers.cpp",
           "sha": "e711748d209c1bce2d39dc05624dd4e4c97772ce",
-          "lastSyncedAt": "2026-10-13T16:11:38.562Z"
+          "lastSyncedAt": "2026-10-13T16:23:10.991Z"
         }
       ]
     },
