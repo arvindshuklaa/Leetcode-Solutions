@@ -5,8 +5,28 @@
     "name": "Geometry",
     "tagId": "38"
   },
-  "updatedAt": "2026-10-13T13:58:35.789Z",
+  "updatedAt": "2026-10-13T14:36:09.850Z",
   "problems": [
+    {
+      "frontendId": "812",
+      "title": "Largest Triangle Area",
+      "slug": "largest-triangle-area",
+      "problemName": "0812-largest-triangle-area",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-triangle-area/",
+      "folderPath": "0812-largest-triangle-area/",
+      "readmePath": "0812-largest-triangle-area/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0812-largest-triangle-area.cpp",
+          "path": "0812-largest-triangle-area/0812-largest-triangle-area.cpp",
+          "sha": "b65f247090e342b00ca9a04e30c0f7d016d2fa3d",
+          "lastSyncedAt": "2026-10-13T14:36:09.850Z"
+        }
+      ]
+    },
     {
       "frontendId": "836",
       "title": "Rectangle Overlap",
