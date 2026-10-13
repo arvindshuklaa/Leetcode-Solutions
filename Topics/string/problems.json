@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T14:37:54.618Z",
+  "updatedAt": "2026-10-13T14:38:48.956Z",
   "problems": [
     {
       "frontendId": "12",
@@ -84,6 +84,26 @@
           "path": "0171-excel-sheet-column-number/0171-excel-sheet-column-number.cpp",
           "sha": "a30494c06236d46982b440f48631996bcabaedf1",
           "lastSyncedAt": "2026-10-13T14:36:57.642Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "0389-find-the-difference/",
+      "readmePath": "0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0389-find-the-difference.cpp",
+          "path": "0389-find-the-difference/0389-find-the-difference.cpp",
+          "sha": "1d6c4446ba4064d4a9477915cf0d5e8c78c0f7fd",
+          "lastSyncedAt": "2026-10-13T14:38:48.956Z"
         }
       ]
     },
