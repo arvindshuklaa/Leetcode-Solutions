@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T14:26:17.798Z",
+  "updatedAt": "2026-10-13T14:27:52.680Z",
   "problems": [
     {
       "frontendId": "169",
@@ -104,6 +104,26 @@
           "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
           "sha": "b83d95afda5be1d4d8da08663bcbd77d6dfd1850",
           "lastSyncedAt": "2026-10-13T13:54:08.835Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1394",
+      "title": "Find Lucky Integer in an Array",
+      "slug": "find-lucky-integer-in-an-array",
+      "problemName": "1394-find-lucky-integer-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+      "folderPath": "1394-find-lucky-integer-in-an-array/",
+      "readmePath": "1394-find-lucky-integer-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1394-find-lucky-integer-in-an-array.cpp",
+          "path": "1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.cpp",
+          "sha": "9808c53f07c2a9a253b59443490c3468aa800c37",
+          "lastSyncedAt": "2026-10-13T14:27:52.680Z"
         }
       ]
     },
