@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:13:27.418Z",
+  "updatedAt": "2026-10-13T14:13:41.314Z",
   "problems": [
     {
       "frontendId": "4",
@@ -264,6 +264,26 @@
           "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.cpp",
           "sha": "42d69b50389faa8a18a4ab0fd50dc1767abcaa95",
           "lastSyncedAt": "2026-10-13T14:03:22.100Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "problemName": "0605-can-place-flowers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers/",
+      "folderPath": "0605-can-place-flowers/",
+      "readmePath": "0605-can-place-flowers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0605-can-place-flowers.cpp",
+          "path": "0605-can-place-flowers/0605-can-place-flowers.cpp",
+          "sha": "e711748d209c1bce2d39dc05624dd4e4c97772ce",
+          "lastSyncedAt": "2026-10-13T14:13:41.314Z"
         }
       ]
     },
