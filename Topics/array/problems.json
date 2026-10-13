@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:16:51.538Z",
+  "updatedAt": "2026-10-13T14:17:41.318Z",
   "problems": [
     {
       "frontendId": "4",
@@ -624,6 +624,26 @@
           "path": "1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.cpp",
           "sha": "83f9a04e9c78b825607a78f0c0ee7a34ba7eafe1",
           "lastSyncedAt": "2026-10-13T14:04:23.953Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "1929-concatenation-of-array/",
+      "readmePath": "1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1929-concatenation-of-array.cpp",
+          "path": "1929-concatenation-of-array/1929-concatenation-of-array.cpp",
+          "sha": "d98d08a7eae48280b7d26248797e33a3cc1ebadb",
+          "lastSyncedAt": "2026-10-13T14:17:41.318Z"
         }
       ]
     },
