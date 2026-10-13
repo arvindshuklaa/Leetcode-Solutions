@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T13:53:32.138Z",
+  "updatedAt": "2026-10-13T13:56:52.925Z",
   "problems": [
     {
       "frontendId": "709",
@@ -44,6 +44,26 @@
           "path": "1768-merge-strings-alternately/1768-merge-strings-alternately.cpp",
           "sha": "c5a42e01842d6167ef42063dde04fd656808432b",
           "lastSyncedAt": "2026-10-13T13:52:20.891Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3498",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "problemName": "3498-reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/",
+      "folderPath": "3498-reverse-degree-of-a-string/",
+      "readmePath": "3498-reverse-degree-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3498-reverse-degree-of-a-string.cpp",
+          "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp",
+          "sha": "72877af96f2ed096b4a1aaef4e7e863c5361f8ed",
+          "lastSyncedAt": "2026-10-13T13:56:52.925Z"
         }
       ]
     }
