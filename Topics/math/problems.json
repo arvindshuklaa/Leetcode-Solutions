@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T14:37:35.832Z",
+  "updatedAt": "2026-10-13T14:38:29.624Z",
   "problems": [
     {
       "frontendId": "12",
@@ -584,6 +584,26 @@
           "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.cpp",
           "sha": "a1a6917fa90fb964aa1730a563e7ab7c88820aba",
           "lastSyncedAt": "2026-10-13T14:33:29.752Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3754",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+      "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "problemName": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/",
+      "folderPath": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/",
+      "readmePath": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i.cpp",
+          "path": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.cpp",
+          "sha": "9db9ac89d0bb3ea2272aeda5b36de0ca9f133c87",
+          "lastSyncedAt": "2026-10-13T14:38:29.624Z"
         }
       ]
     },
