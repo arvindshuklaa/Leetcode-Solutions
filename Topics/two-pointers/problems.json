@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T16:11:14.884Z",
+  "updatedAt": "2026-10-13T16:11:23.132Z",
   "problems": [
     {
       "frontendId": "11",
@@ -383,7 +383,7 @@
           "filename": "2824-count-pairs-whose-sum-is-less-than-target.cpp",
           "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.cpp",
           "sha": "250d947d4cd6cb40f821b2727f24a16c0f9f6b6f",
-          "lastSyncedAt": "2026-10-13T14:12:48.720Z"
+          "lastSyncedAt": "2026-10-13T16:11:23.132Z"
         }
       ]
     },
