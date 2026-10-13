@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T14:28:50.154Z",
+  "updatedAt": "2026-10-13T14:29:14.977Z",
   "problems": [
     {
       "frontendId": "4",
@@ -844,6 +844,26 @@
           "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.cpp",
           "sha": "79231afb1e3baa942a674c9a48144a95dd42ddd3",
           "lastSyncedAt": "2026-10-13T13:53:44.165Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1748",
+      "title": "Sum of Unique Elements",
+      "slug": "sum-of-unique-elements",
+      "problemName": "1748-sum-of-unique-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+      "folderPath": "1748-sum-of-unique-elements/",
+      "readmePath": "1748-sum-of-unique-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1748-sum-of-unique-elements.cpp",
+          "path": "1748-sum-of-unique-elements/1748-sum-of-unique-elements.cpp",
+          "sha": "65e7511d201a1f8a79298e1980d0b5383daf2d40",
+          "lastSyncedAt": "2026-10-13T14:29:14.977Z"
         }
       ]
     },
