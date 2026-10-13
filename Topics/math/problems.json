@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T16:33:59.864Z",
+  "updatedAt": "2026-10-13T16:34:09.426Z",
   "problems": [
     {
       "frontendId": "12",
@@ -283,7 +283,7 @@
           "filename": "0492-construct-the-rectangle.cpp",
           "path": "0492-construct-the-rectangle/0492-construct-the-rectangle.cpp",
           "sha": "e146b32e11c4d35d1e9198e3fdd98f6ca90179c6",
-          "lastSyncedAt": "2026-10-13T14:36:41.264Z"
+          "lastSyncedAt": "2026-10-13T16:34:09.426Z"
         }
       ]
     },
