@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T16:35:15.467Z",
+  "updatedAt": "2026-10-13T16:35:45.987Z",
   "problems": [
     {
       "frontendId": "191",
@@ -143,7 +143,7 @@
           "filename": "0371-sum-of-two-integers.cpp",
           "path": "0371-sum-of-two-integers/0371-sum-of-two-integers.cpp",
           "sha": "159e596be98d338a052bea0f4ec5facfbae2c813",
-          "lastSyncedAt": "2026-10-13T14:42:18.075Z"
+          "lastSyncedAt": "2026-10-13T16:35:45.987Z"
         }
       ]
     },
