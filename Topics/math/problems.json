@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T13:58:35.789Z",
+  "updatedAt": "2026-10-13T14:00:11.572Z",
   "problems": [
     {
       "frontendId": "263",
@@ -24,6 +24,26 @@
           "path": "0263-ugly-number/0263-ugly-number.cpp",
           "sha": "d046b4f7f3047f40f040e3121c08ebd8e1c9a340",
           "lastSyncedAt": "2026-10-13T13:51:50.380Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0268-missing-number.cpp",
+          "path": "0268-missing-number/0268-missing-number.cpp",
+          "sha": "922c6b7a12213d9df8a3daa1a321ec8e1a64a625",
+          "lastSyncedAt": "2026-10-13T14:00:11.572Z"
         }
       ]
     },
