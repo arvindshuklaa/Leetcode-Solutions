@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-13T16:14:02.603Z",
+  "updatedAt": "2026-10-13T16:25:47.564Z",
   "problems": [
     {
       "frontendId": "258",
@@ -43,7 +43,7 @@
           "filename": "1952-three-divisors.cpp",
           "path": "1952-three-divisors/1952-three-divisors.cpp",
           "sha": "7dc6dc2e36e455fe894816367a9a67090e6427d9",
-          "lastSyncedAt": "2026-10-13T16:14:02.603Z"
+          "lastSyncedAt": "2026-10-13T16:25:47.564Z"
         }
       ]
     },
