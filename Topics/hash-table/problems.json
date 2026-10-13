@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T14:31:58.851Z",
+  "updatedAt": "2026-10-13T14:34:25.567Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
           "sha": "b83d95afda5be1d4d8da08663bcbd77d6dfd1850",
           "lastSyncedAt": "2026-10-13T13:54:08.835Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1331",
+      "title": "Rank Transform of an Array",
+      "slug": "rank-transform-of-an-array",
+      "problemName": "1331-rank-transform-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-transform-of-an-array/",
+      "folderPath": "1331-rank-transform-of-an-array/",
+      "readmePath": "1331-rank-transform-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1331-rank-transform-of-an-array.cpp",
+          "path": "1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.cpp",
+          "sha": "ba7dacdd4dfde46a0a780d13627ee41466c07116",
+          "lastSyncedAt": "2026-10-13T14:34:25.567Z"
         }
       ]
     },
