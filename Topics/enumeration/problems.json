@@ -5,8 +5,28 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-13T14:22:43.972Z",
+  "updatedAt": "2026-10-13T14:23:39.817Z",
   "problems": [
+    {
+      "frontendId": "1952",
+      "title": "Three Divisors",
+      "slug": "three-divisors",
+      "problemName": "1952-three-divisors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/three-divisors/",
+      "folderPath": "1952-three-divisors/",
+      "readmePath": "1952-three-divisors/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1952-three-divisors.cpp",
+          "path": "1952-three-divisors/1952-three-divisors.cpp",
+          "sha": "7dc6dc2e36e455fe894816367a9a67090e6427d9",
+          "lastSyncedAt": "2026-10-13T14:23:39.817Z"
+        }
+      ]
+    },
     {
       "frontendId": "2778",
       "title": "Sum of Squares of Special Elements ",
