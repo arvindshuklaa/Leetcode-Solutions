@@ -5,7 +5,7 @@
     "name": "Brainteaser",
     "tagId": "32"
   },
-  "updatedAt": "2026-10-13T14:19:44.391Z",
+  "updatedAt": "2026-10-13T14:24:31.440Z",
   "problems": [
     {
       "frontendId": "292",
@@ -24,6 +24,26 @@
           "path": "0292-nim-game/0292-nim-game.cpp",
           "sha": "730a6dece5349a1ae98d7cde42b190c2e1a0cce2",
           "lastSyncedAt": "2026-10-13T14:19:44.391Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1025",
+      "title": "Divisor Game",
+      "slug": "divisor-game",
+      "problemName": "1025-divisor-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisor-game/",
+      "folderPath": "1025-divisor-game/",
+      "readmePath": "1025-divisor-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1025-divisor-game.cpp",
+          "path": "1025-divisor-game/1025-divisor-game.cpp",
+          "sha": "7cd28c2edd24c0d6ef0bbc68741ecbc47e0b0a24",
+          "lastSyncedAt": "2026-10-13T14:24:31.440Z"
         }
       ]
     },
