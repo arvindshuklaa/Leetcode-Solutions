@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T13:52:38.441Z",
+  "updatedAt": "2026-10-13T13:54:08.835Z",
   "problems": [
+    {
+      "frontendId": "350",
+      "title": "Intersection of Two Arrays II",
+      "slug": "intersection-of-two-arrays-ii",
+      "problemName": "0350-intersection-of-two-arrays-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+      "folderPath": "0350-intersection-of-two-arrays-ii/",
+      "readmePath": "0350-intersection-of-two-arrays-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0350-intersection-of-two-arrays-ii.cpp",
+          "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
+          "sha": "b83d95afda5be1d4d8da08663bcbd77d6dfd1850",
+          "lastSyncedAt": "2026-10-13T13:54:08.835Z"
+        }
+      ]
+    },
     {
       "frontendId": "1089",
       "title": "Duplicate Zeros",
