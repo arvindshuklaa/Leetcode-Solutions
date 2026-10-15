@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 161 | 123 | 34 | 4 |
+| 163 | 125 | 34 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 90 |
+| 1 days | 26 days | 91 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-26 | 2 |
 | 2026-09-27 | 1 |
 | 2026-09-30 | 1 |
 | 2026-10-01 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
 | 2026-10-13 | 1 |
+| 2026-10-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 87 | 54% |
-| Math | 50 | 31% |
+| Array | 87 | 53% |
+| Math | 52 | 32% |
 | Sorting | 28 | 17% |
 | Binary Search | 23 | 14% |
-| Hash Table | 22 | 14% |
-| Two Pointers | 22 | 14% |
+| Hash Table | 22 | 13% |
+| Two Pointers | 22 | 13% |
 | Bit Manipulation | 15 | 9% |
 | String | 14 | 9% |
 | Dynamic Programming | 10 | 6% |
@@ -68,13 +68,13 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
-| [Greedy](Topics/greedy/) | 7 |
+| [Greedy](Topics/greedy/) | 8 |
 | [Hash Table](Topics/hash-table/) | 22 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 50 |
+| [Math](Topics/math/) | 52 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
