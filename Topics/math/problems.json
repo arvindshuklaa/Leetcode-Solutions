@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-15T19:56:33.119Z",
+  "updatedAt": "2026-10-15T20:06:04.396Z",
   "problems": [
     {
       "frontendId": "2",
@@ -664,6 +664,26 @@
           "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.cpp",
           "sha": "faf3c8dfad59fe3c731aae379485f53fe2673be2",
           "lastSyncedAt": "2026-10-13T16:25:31.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1323",
+      "title": "Maximum 69 Number",
+      "slug": "maximum-69-number",
+      "problemName": "1323-maximum-69-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-69-number/",
+      "folderPath": "1323-maximum-69-number/",
+      "readmePath": "1323-maximum-69-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1323-maximum-69-number.cpp",
+          "path": "1323-maximum-69-number/1323-maximum-69-number.cpp",
+          "sha": "c0630966d3e39ca3dcef12b7679ce019d620ad9f",
+          "lastSyncedAt": "2026-10-15T20:06:04.396Z"
         }
       ]
     },
