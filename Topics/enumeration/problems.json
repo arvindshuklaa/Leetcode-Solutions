@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-18T22:28:53.353Z",
+  "updatedAt": "2026-10-18T22:30:24.618Z",
   "problems": [
     {
       "frontendId": "1952",
@@ -83,7 +83,7 @@
           "filename": "4056-number-of-intersecting-interval-pairs-i.cpp",
           "path": "4056-number-of-intersecting-interval-pairs-i/4056-number-of-intersecting-interval-pairs-i.cpp",
           "sha": "48ae85359fdb93b17ec82a08c6868761eaafc0ad",
-          "lastSyncedAt": "2026-10-13T16:18:11.253Z"
+          "lastSyncedAt": "2026-10-18T22:30:24.618Z"
         }
       ]
     }
