@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking",
+    "tagId": "14"
+  },
+  "updatedAt": "2026-10-18T22:28:38.211Z",
+  "problems": [
+    {
+      "frontendId": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "problemName": "0046-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+      "folderPath": "0046-permutations/",
+      "readmePath": "0046-permutations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0046-permutations.cpp",
+          "path": "0046-permutations/0046-permutations.cpp",
+          "sha": "d16870c7ddedffc735c128632b583e1bceaa1961",
+          "lastSyncedAt": "2026-10-18T22:28:38.211Z"
+        }
+      ]
+    }
+  ]
+}
