@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:39:35.968Z",
+  "updatedAt": "2026-10-18T22:28:09.724Z",
   "problems": [
     {
       "frontendId": "1",
@@ -864,6 +864,26 @@
           "path": "0724-find-pivot-index/0724-find-pivot-index.cpp",
           "sha": "8a8c7b44deed2e72911ea24afd9bf72584d7c27c",
           "lastSyncedAt": "2026-10-13T16:19:58.871Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "747",
+      "title": "Largest Number At Least Twice of Others",
+      "slug": "largest-number-at-least-twice-of-others",
+      "problemName": "0747-largest-number-at-least-twice-of-others",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number-at-least-twice-of-others/",
+      "folderPath": "0747-largest-number-at-least-twice-of-others/",
+      "readmePath": "0747-largest-number-at-least-twice-of-others/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0747-largest-number-at-least-twice-of-others.cpp",
+          "path": "0747-largest-number-at-least-twice-of-others/0747-largest-number-at-least-twice-of-others.cpp",
+          "sha": "ebd6093e2433941ec297e6fbd8369ad831917537",
+          "lastSyncedAt": "2026-10-18T22:28:09.724Z"
         }
       ]
     },
