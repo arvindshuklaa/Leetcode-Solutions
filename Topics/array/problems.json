@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T22:28:09.724Z",
+  "updatedAt": "2026-10-18T22:28:18.017Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1124,6 +1124,26 @@
           "path": "1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.cpp",
           "sha": "ba7dacdd4dfde46a0a780d13627ee41466c07116",
           "lastSyncedAt": "2026-10-13T16:33:41.635Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1390",
+      "title": "Four Divisors",
+      "slug": "four-divisors",
+      "problemName": "1390-four-divisors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/four-divisors/",
+      "folderPath": "1390-four-divisors/",
+      "readmePath": "1390-four-divisors/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1390-four-divisors.cpp",
+          "path": "1390-four-divisors/1390-four-divisors.cpp",
+          "sha": "7ef8e04ca56ce5b4363d12a86918ed33889284f7",
+          "lastSyncedAt": "2026-10-18T22:28:18.017Z"
         }
       ]
     },
