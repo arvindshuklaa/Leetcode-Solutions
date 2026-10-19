@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 163 | 125 | 34 | 4 |
+| 166 | 126 | 36 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 91 |
+| 1 days | 26 days | 93 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-27 | 1 |
-| 2026-09-30 | 1 |
 | 2026-10-01 | 1 |
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
@@ -28,20 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
 | 2026-10-13 | 1 |
-| 2026-10-16 | 2 |
+| 2026-10-15 | 1 |
+| 2026-10-16 | 3 |
+| 2026-10-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 87 | 53% |
-| Math | 52 | 32% |
-| Sorting | 28 | 17% |
+| Array | 90 | 54% |
+| Math | 53 | 32% |
+| Sorting | 29 | 17% |
 | Binary Search | 23 | 14% |
 | Hash Table | 22 | 13% |
 | Two Pointers | 22 | 13% |
 | Bit Manipulation | 15 | 9% |
-| String | 14 | 9% |
+| String | 14 | 8% |
 | Dynamic Programming | 10 | 6% |
 | Recursion | 10 | 6% |
 
@@ -49,7 +49,8 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 87 |
+| [Array](Topics/array/) | 90 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 23 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 15 |
@@ -74,7 +75,7 @@ Contains topicwise list of solved problems.
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 52 |
+| [Math](Topics/math/) | 53 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
@@ -85,14 +86,14 @@ Contains topicwise list of solved problems.
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Polygons](Topics/polygons/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
-| [Prime Factorization](Topics/prime-factorization/) | 1 |
+| [Prime Factorization](Topics/prime-factorization/) | 2 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
 | [Recursion](Topics/recursion/) | 10 |
-| [Sieve Theory](Topics/sieve-theory/) | 1 |
+| [Sieve Theory](Topics/sieve-theory/) | 2 |
 | [Simulation](Topics/simulation/) | 8 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 28 |
+| [Sorting](Topics/sorting/) | 29 |
 | [String](Topics/string/) | 14 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
