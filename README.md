@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 167 | 127 | 36 | 4 |
+| 168 | 128 | 36 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 26 days | 94 |
+| 1 days | 26 days | 95 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
 | 2026-10-04 | 2 |
 | 2026-10-05 | 1 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-16 | 3 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
+| 2026-10-26 | 1 |
 
 ## Top Tags
 
@@ -38,12 +38,12 @@ Contains topicwise list of solved problems.
 | Math | 53 | 32% |
 | Sorting | 29 | 17% |
 | Binary Search | 23 | 14% |
+| Hash Table | 23 | 14% |
 | Two Pointers | 23 | 14% |
-| Hash Table | 22 | 13% |
+| String | 16 | 10% |
 | Bit Manipulation | 15 | 9% |
-| String | 15 | 9% |
+| Counting | 10 | 6% |
 | Dynamic Programming | 10 | 6% |
-| Recursion | 10 | 6% |
 
 ## Topics
 
@@ -58,7 +58,7 @@ Contains topicwise list of solved problems.
 | [Brainteaser](Topics/brainteaser/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 2 |
-| [Counting](Topics/counting/) | 9 |
+| [Counting](Topics/counting/) | 10 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
@@ -70,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 2 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 22 |
+| [Hash Table](Topics/hash-table/) | 23 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Interactive](Topics/interactive/) | 2 |
@@ -94,7 +94,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 8 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 29 |
-| [String](Topics/string/) | 15 |
+| [String](Topics/string/) | 16 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 23 |
