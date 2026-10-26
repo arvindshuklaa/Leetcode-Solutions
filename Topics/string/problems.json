@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-26T17:36:46.444Z",
+  "updatedAt": "2026-10-26T17:51:55.422Z",
   "problems": [
     {
       "frontendId": "12",
@@ -144,6 +144,26 @@
           "path": "0344-reverse-string/0344-reverse-string.cpp",
           "sha": "41647729c11f6e68aa3ee677575b92e0efbaded3",
           "lastSyncedAt": "2026-10-13T16:35:19.115Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "0383-ransom-note/",
+      "readmePath": "0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0383-ransom-note.cpp",
+          "path": "0383-ransom-note/0383-ransom-note.cpp",
+          "sha": "a948c396d751c770b2b69f153b0bab6ab10e13de",
+          "lastSyncedAt": "2026-10-26T17:51:55.422Z"
         }
       ]
     },
