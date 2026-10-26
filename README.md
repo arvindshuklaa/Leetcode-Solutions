@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 166 | 126 | 36 | 4 |
+| 167 | 127 | 36 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 93 |
+| 2 days | 26 days | 94 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-01 | 1 |
 | 2026-10-02 | 1 |
 | 2026-10-03 | 1 |
 | 2026-10-04 | 2 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-15 | 1 |
 | 2026-10-16 | 3 |
 | 2026-10-19 | 1 |
+| 2026-10-20 | 1 |
 
 ## Top Tags
 
@@ -38,10 +38,10 @@ Contains topicwise list of solved problems.
 | Math | 53 | 32% |
 | Sorting | 29 | 17% |
 | Binary Search | 23 | 14% |
+| Two Pointers | 23 | 14% |
 | Hash Table | 22 | 13% |
-| Two Pointers | 22 | 13% |
 | Bit Manipulation | 15 | 9% |
-| String | 14 | 8% |
+| String | 15 | 9% |
 | Dynamic Programming | 10 | 6% |
 | Recursion | 10 | 6% |
 
@@ -94,9 +94,9 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 8 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 29 |
-| [String](Topics/string/) | 14 |
+| [String](Topics/string/) | 15 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 22 |
+| [Two Pointers](Topics/two-pointers/) | 23 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
