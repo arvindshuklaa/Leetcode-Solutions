@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-18T22:29:52.539Z",
+  "updatedAt": "2026-10-26T17:51:55.422Z",
   "problems": [
     {
       "frontendId": "169",
@@ -44,6 +44,26 @@
           "path": "0229-majority-element-ii/0229-majority-element-ii.cpp",
           "sha": "828d9a9b6f6b826ed7d3a7836432d93d79b882dc",
           "lastSyncedAt": "2026-10-13T16:24:35.892Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "0383-ransom-note/",
+      "readmePath": "0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0383-ransom-note.cpp",
+          "path": "0383-ransom-note/0383-ransom-note.cpp",
+          "sha": "a948c396d751c770b2b69f153b0bab6ab10e13de",
+          "lastSyncedAt": "2026-10-26T17:51:55.422Z"
         }
       ]
     },
