@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-27T23:30:28.935Z",
+  "updatedAt": "2026-10-28T17:27:18.779Z",
   "problems": [
     {
       "frontendId": "12",
@@ -204,6 +204,26 @@
           "path": "0389-find-the-difference/0389-find-the-difference.cpp",
           "sha": "1d6c4446ba4064d4a9477915cf0d5e8c78c0f7fd",
           "lastSyncedAt": "2026-10-13T16:34:51.239Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0392-is-subsequence.cpp",
+          "path": "0392-is-subsequence/0392-is-subsequence.cpp",
+          "sha": "ba8e6f82a650936871dac85279805492f21952ce",
+          "lastSyncedAt": "2026-10-28T17:27:18.779Z"
         }
       ]
     },
