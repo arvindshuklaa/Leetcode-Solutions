@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-27T23:30:28.935Z",
+  "updatedAt": "2026-10-28T17:27:18.779Z",
   "problems": [
     {
       "frontendId": "11",
@@ -284,6 +284,26 @@
           "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
           "sha": "b83d95afda5be1d4d8da08663bcbd77d6dfd1850",
           "lastSyncedAt": "2026-10-18T22:29:43.836Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0392-is-subsequence.cpp",
+          "path": "0392-is-subsequence/0392-is-subsequence.cpp",
+          "sha": "ba8e6f82a650936871dac85279805492f21952ce",
+          "lastSyncedAt": "2026-10-28T17:27:18.779Z"
         }
       ]
     },
