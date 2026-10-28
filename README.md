@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 168 | 128 | 36 | 4 |
+| 170 | 130 | 36 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 95 |
+| 1 days | 26 days | 96 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-03 | 1 |
 | 2026-10-04 | 2 |
 | 2026-10-05 | 1 |
 | 2026-10-06 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-26 | 1 |
+| 2026-10-28 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 90 | 54% |
-| Math | 53 | 32% |
+| Array | 90 | 53% |
+| Math | 53 | 31% |
 | Sorting | 29 | 17% |
+| Two Pointers | 25 | 15% |
 | Binary Search | 23 | 14% |
 | Hash Table | 23 | 14% |
-| Two Pointers | 23 | 14% |
-| String | 16 | 10% |
+| String | 18 | 11% |
 | Bit Manipulation | 15 | 9% |
+| Dynamic Programming | 11 | 6% |
 | Counting | 10 | 6% |
-| Dynamic Programming | 10 | 6% |
 
 ## Topics
 
@@ -55,6 +55,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 15 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
+| [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Brainteaser](Topics/brainteaser/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 2 |
@@ -62,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
@@ -74,6 +75,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Interactive](Topics/interactive/) | 2 |
+| [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 53 |
 | [Matrix](Topics/matrix/) | 2 |
@@ -94,9 +96,11 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 8 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 29 |
-| [String](Topics/string/) | 16 |
+| [String](Topics/string/) | 18 |
+| [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 23 |
+| [Two Pointers](Topics/two-pointers/) | 25 |
+| [Z Algorithm](Topics/z-algorithm/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
