@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 170 | 130 | 36 | 4 |
+| 171 | 131 | 36 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 26 days | 96 |
+| 1 days | 26 days | 97 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-04 | 2 |
 | 2026-10-05 | 1 |
 | 2026-10-06 | 1 |
 | 2026-10-08 | 1 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-20 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-28 | 2 |
+| 2026-10-30 | 1 |
 
 ## Top Tags
 
@@ -38,9 +38,9 @@ Contains topicwise list of solved problems.
 | Math | 53 | 31% |
 | Sorting | 29 | 17% |
 | Two Pointers | 25 | 15% |
-| Binary Search | 23 | 14% |
-| Hash Table | 23 | 14% |
-| String | 18 | 11% |
+| Binary Search | 23 | 13% |
+| Hash Table | 23 | 13% |
+| String | 19 | 11% |
 | Bit Manipulation | 15 | 9% |
 | Dynamic Programming | 11 | 6% |
 | Counting | 10 | 6% |
@@ -96,7 +96,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 8 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 29 |
-| [String](Topics/string/) | 18 |
+| [String](Topics/string/) | 19 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 2 |
