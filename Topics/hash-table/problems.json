@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-10T17:10:59.183Z",
+  "updatedAt": "2026-11-11T09:37:35.804Z",
   "problems": [
     {
       "frontendId": "1",
@@ -324,6 +324,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
           "sha": "11197d07a774be9cdf722c1bfaad26cfa0a52fd7",
           "lastSyncedAt": "2026-10-13T16:27:19.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1684",
+      "title": "Count the Number of Consistent Strings",
+      "slug": "count-the-number-of-consistent-strings",
+      "problemName": "1684-count-the-number-of-consistent-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-consistent-strings/",
+      "folderPath": "1684-count-the-number-of-consistent-strings/",
+      "readmePath": "1684-count-the-number-of-consistent-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1684-count-the-number-of-consistent-strings.cpp",
+          "path": "1684-count-the-number-of-consistent-strings/1684-count-the-number-of-consistent-strings.cpp",
+          "sha": "4cc0701aa212b1f7841a946be93a7c4cd0e97dd5",
+          "lastSyncedAt": "2026-11-11T09:37:35.804Z"
         }
       ]
     },
