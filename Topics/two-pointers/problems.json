@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-28T17:27:18.779Z",
+  "updatedAt": "2026-11-12T19:35:11.160Z",
   "problems": [
     {
       "frontendId": "11",
@@ -304,6 +304,26 @@
           "path": "0392-is-subsequence/0392-is-subsequence.cpp",
           "sha": "ba8e6f82a650936871dac85279805492f21952ce",
           "lastSyncedAt": "2026-10-28T17:27:18.779Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "problemName": "0876-middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "folderPath": "0876-middle-of-the-linked-list/",
+      "readmePath": "0876-middle-of-the-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0876-middle-of-the-linked-list.cpp",
+          "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp",
+          "sha": "10edcc90f600578f9d6db6090347db2961547145",
+          "lastSyncedAt": "2026-11-12T19:35:11.160Z"
         }
       ]
     },
