@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T16:23:18.422Z",
+  "updatedAt": "2026-11-15T18:06:55.080Z",
   "problems": [
     {
       "frontendId": "238",
@@ -64,6 +64,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp",
           "sha": "019e6e69c8126c0a97ddc29b1c7a39b6b29b75d5",
           "lastSyncedAt": "2026-10-13T16:22:17.971Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1524",
+      "title": "Number of Sub-arrays With Odd Sum",
+      "slug": "number-of-sub-arrays-with-odd-sum",
+      "problemName": "1524-number-of-sub-arrays-with-odd-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+      "folderPath": "1524-number-of-sub-arrays-with-odd-sum/",
+      "readmePath": "1524-number-of-sub-arrays-with-odd-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1524-number-of-sub-arrays-with-odd-sum.cpp",
+          "path": "1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.cpp",
+          "sha": "e175cf5144a5f29466cf8dbc52b42eb7423d1f63",
+          "lastSyncedAt": "2026-11-15T18:06:55.080Z"
         }
       ]
     }
