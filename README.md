@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 9 | 9 | 0 | 0 |
+| 10 | 9 | 1 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 8 days | 9 |
+| 1 days | 8 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,25 +24,28 @@ Contains topicwise list of solved problems.
 | 2026-11-10 | 1 |
 | 2026-11-11 | 1 |
 | 2026-11-13 | 1 |
+| 2026-11-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 8 | 89% |
-| Array | 3 | 33% |
-| Counting | 3 | 33% |
-| Hash Table | 2 | 22% |
-| Two Pointers | 2 | 22% |
-| Bit Manipulation | 1 | 11% |
-| Linked List | 1 | 11% |
-| Simulation | 1 | 11% |
+| String | 8 | 80% |
+| Array | 4 | 40% |
+| Counting | 3 | 30% |
+| Hash Table | 2 | 20% |
+| Two Pointers | 2 | 20% |
+| Bit Manipulation | 1 | 10% |
+| Dynamic Programming | 1 | 10% |
+| Linked List | 1 | 10% |
+| Math | 1 | 10% |
+| Prefix Sum | 1 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 94 |
+| [Array](Topics/array/) | 95 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 23 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -56,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
@@ -70,7 +73,7 @@ Contains topicwise list of solved problems.
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
-| [Math](Topics/math/) | 54 |
+| [Math](Topics/math/) | 55 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
@@ -80,7 +83,7 @@ Contains topicwise list of solved problems.
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Polygons](Topics/polygons/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Prime Factorization](Topics/prime-factorization/) | 2 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
