@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-11T09:37:35.804Z",
+  "updatedAt": "2026-11-19T16:28:02.998Z",
   "problems": [
     {
       "frontendId": "1",
@@ -244,6 +244,26 @@
           "path": "0389-find-the-difference/0389-find-the-difference.cpp",
           "sha": "1d6c4446ba4064d4a9477915cf0d5e8c78c0f7fd",
           "lastSyncedAt": "2026-10-13T16:34:51.239Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1207",
+      "title": "Unique Number of Occurrences",
+      "slug": "unique-number-of-occurrences",
+      "problemName": "1207-unique-number-of-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-number-of-occurrences/",
+      "folderPath": "1207-unique-number-of-occurrences/",
+      "readmePath": "1207-unique-number-of-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1207-unique-number-of-occurrences.cpp",
+          "path": "1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.cpp",
+          "sha": "cf2183894dff1c5187d8b5937093a88dc8b400ad",
+          "lastSyncedAt": "2026-11-19T16:28:02.998Z"
         }
       ]
     },
