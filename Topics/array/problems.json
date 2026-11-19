@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T18:06:55.080Z",
+  "updatedAt": "2026-11-19T16:28:02.998Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1104,6 +1104,26 @@
           "path": "1089-duplicate-zeros/1089-duplicate-zeros.cpp",
           "sha": "3583b4f409e14a74dd3581c72d34e766acc6d2b8",
           "lastSyncedAt": "2026-10-18T22:29:23.974Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1207",
+      "title": "Unique Number of Occurrences",
+      "slug": "unique-number-of-occurrences",
+      "problemName": "1207-unique-number-of-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-number-of-occurrences/",
+      "folderPath": "1207-unique-number-of-occurrences/",
+      "readmePath": "1207-unique-number-of-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1207-unique-number-of-occurrences.cpp",
+          "path": "1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.cpp",
+          "sha": "cf2183894dff1c5187d8b5937093a88dc8b400ad",
+          "lastSyncedAt": "2026-11-19T16:28:02.998Z"
         }
       ]
     },
